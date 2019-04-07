@@ -30,18 +30,13 @@ Here are Ingame examples of one castle of each character with a list of names of
 
 A big shoutout and thank you to 
 
-[FireFly Studios](https://fireflyworlds.com/) for creating Stronghold in the first place,	
-[Showd0wn](https://github.com/Sh0wdown)for making the patcher that finally made me get up my ass and do the aivs (cheers for increased gamespeed)	
-[Udwin](https://www.youtube.com/user/UdwinLP) for publicising the patcher	
-[Heroflorian](https://github.com/Heroesflorian) for aiding with feedback and helpfull information	
-
 &nbsp;  
 =======
 [FireFly Studios](https://fireflyworlds.com/) for creating Stronghold in the first place
 
 [Showd0wn](https://github.com/Sh0wdown)for making the patcher that finally made me get up my ass and do the aivs (cheers for increased gamespeed)
 
-[Udwin](https://www.youtube.com/user/UdwinLP) for publicising the patcher
+[Udwin](https://www.youtube.com/user/UdwinLP) for promoting the patcher
 
 [Heroflorian](https://github.com/Heroesflorian) for aiding with feedback and helpfull information
 
