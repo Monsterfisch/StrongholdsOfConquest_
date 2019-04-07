@@ -126,8 +126,8 @@ Qal'at Salah El-Din			| saladin1
 Jerusalem	 				| saladin2
 Aleppo		 				| saladin3
 Konstantinopel			 	| saladin4
-Antioch						| saladin5
-Akkon						| saladin6
+Antioch on the Orontes		| saladin5
+Akkon/Acre					| saladin6
 Alexandria					| saladin7
 cairo						| saladin8
 
@@ -146,6 +146,6 @@ margat						| wazir3
 kerak castle				| wazir4
 Ajloun castle				| wazir5
 castle of Palmyra			| wazir6
-[[Qal'at Najm]]				| wazir7
+Qal'at Najm					| wazir7
 [[Qal'at Doubiyé]]			| wazir8
 
