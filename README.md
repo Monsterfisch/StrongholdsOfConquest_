@@ -7,7 +7,7 @@ Apart from a couple of examples (which will get updated), all castles are based 
 Keep in mind the AIVs are developed with the [USCP](https://github.com/Sh0wdown/UnofficialCrusaderPatch/releases) in mind so if you have issues with the AI economy not getting off the ground, make sure to get it from [here](https://github.com/Sh0wdown/UnofficialCrusaderPatch/releases) and see if the problem persists.
 
 
-Here are Ingame examples of one castle of each character with a list of names of the actual place and the file they are located in for reference. (screenshots are taken in a personal edit of mine for the game which can be downloaded from [here](https://github.com/Monsterfisch/StrongholdsOfConquest_/blob/master/StrongholdsOfConquest_VisualEdit.zip) not that it does have a few glichty problems which will hopefully get figured out eventually)
+Here are Ingame examples of one castle of each character with a list of names of the actual place and the file they are located in for reference. (screenshots are taken in a personal edit of mine for the game which can be downloaded from [here](https://github.com/Monsterfisch/StrongholdsOfConquest_/blob/master/StrongholdsOfConquest_VisualEdit.zip) (Highly WIP!) not that it does have a few glichty problems which will hopefully get figured out eventually)
 
 ![Rat](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/rat.jpg)
 ![Snake](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/snake.jpg)
