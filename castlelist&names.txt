@@ -51,7 +51,7 @@ caerphilly					| wolf8
 
 motte baily 				| snake1
 gatersleben 				| snake2
-Marienburg	(very early)	| snake3
+Marienburg	(early state)	| snake3
 Zilly castle 				| snake4
 Ewloe castle				| snake5
 Sommerau castle 			| snake6
