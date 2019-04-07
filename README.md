@@ -6,4 +6,6 @@ Apart from a couple of examples, all castles used are based on historic plans re
 
 Here are Ingame examples of one castle of each character with a list of names of the actual place and the file they are located in for reference.
 
-[!(https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/saladin.jpg?raw=true)]
+![Saladin](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/saladin.jpg)
+
+
