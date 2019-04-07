@@ -10,12 +10,15 @@ Keep in mind the castles are developed with the [USCP](https://github.com/Sh0wdo
 Here are Ingame examples of one castle of each character with a list of names of the actual place and the file they are located in for reference. (screenshots are taken is a personal edit of mine which can be downloaded from here not that it does have a few glichty problems which will hopefully get figured out eventually)
 
 ![Saladin](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/saladin.jpg)
+![Wazir](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/wazir.jpg)
+![Emir](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/emir.jpg)
+![Saladin](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/saladin.jpg)
+![Saladin](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/saladin.jpg)
 
 
 
 A big shoutout and thank you to 
 
-<<<<<<< HEAD
 [FireFly Studios](https://fireflyworlds.com/) for creating Stronghold in the first place,	
 [Showd0wn](https://github.com/Sh0wdown)for making the patcher that finally made me get up my ass and do the aivs (cheers for increased gamespeed)	
 [Udwin](https://www.youtube.com/user/UdwinLP) for publicising the patcher	
@@ -30,4 +33,4 @@ A big shoutout and thank you to
 [Udwin](https://www.youtube.com/user/UdwinLP) for publicising the patcher
 
 [Heroflorian](https://github.com/Heroesflorian) for aiding with feedback and helpfull information
->>>>>>> 4afbeda30de0e365aa9772e28f57dddf03218259
+
