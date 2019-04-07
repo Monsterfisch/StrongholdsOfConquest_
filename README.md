@@ -9,11 +9,22 @@ Keep in mind the castles are developed with the [USCP](https://github.com/Sh0wdo
 
 Here are Ingame examples of one castle of each character with a list of names of the actual place and the file they are located in for reference. (screenshots are taken is a personal edit of mine which can be downloaded from here not that it does have a few glichty problems which will hopefully get figured out eventually)
 
+![Rat](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/rat.jpg)
+![Snake](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/snake.jpg)
+![Pig](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/pig.jpg)
+![Wolf](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/wolf.jpg)
 ![Saladin](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/saladin.jpg)
+![Caliph](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/caliph.jpg)
+![Sultan](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/sultan.jpg)
+![Richard](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/richard.jpg)
+![Frederick](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/frederick.jpg)
+![Phillip](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/phillip.jpg)
 ![Wazir](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/wazir.jpg)
 ![Emir](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/emir.jpg)
-![Saladin](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/saladin.jpg)
-![Saladin](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/saladin.jpg)
+![Nizar](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/nizar.jpg)
+![Sherif](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/sherif.jpg)
+![Marshall](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/Marshall.jpg)
+![Abbot](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/abbot.jpg)
 
 
 

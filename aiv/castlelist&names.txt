@@ -136,7 +136,7 @@ Masjid al-Sultan Barquq		| Sultan2
 Madrasa Sultan Hassan		| Sultan3
 Sultan al-Mansur Qalawun	| Sultan4
 Khirbat al-Mafjar			| Sultan5
-Saragossa					| Sultan6
+Aljafería Palace			| Sultan6
 Royal Palace of Mari 		| Sultan7
 Qansuh al-Ghuri Complex		| Sultan8
 
