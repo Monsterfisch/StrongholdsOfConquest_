@@ -14,7 +14,7 @@ AIFileHeader
 		- Richard = 2 Schilde zum Belagern, wenige Armbrustschützen zur Verteidigung, baut seine Burg schneller auf
 		- Friedrich = 2 Schilde zum Belagern
 		- Phillip = Baut Käsefarmen, baut ein paar Armbrustschützen, sendet Ritter bei Belagerungen mit, baut einen Steinbruch, 2 Schilde zum Belagern, produziert Bögen und Armbrüste, baut seine Burg schneller auf
-		- Wazir = sendet Schleuderkämpfer mit seinen Angriffstruppen, baut 1 Rammbock zum Belagern
+		- Wazir = sendet Schleuderkämpfer mit seinen Angriffstruppen, baut 1 Rammbock zum Belagern, kauft getreide in niedrigeren mengen und versuch mindesten 5 getreide auf vorrat zu lagern
 		- Emir = 2 Schilde zum Belagern
 		- Nazir =extra steinbruch,  1 Feuerbaliste zum Belagern, rekrutiert defensive Meuchelmörder
 		- Scheriff = 1 Belagerungsturm zum Belagern 
@@ -31,73 +31,73 @@ AIFileHeader
 	{
 		This .aic fixes the following bugs and quirks of the AI:
 
-		- Rat = 2 shields to besiege, 1 spearman to dig his own moat
-		- Snake = 1 shield to besiege
-		- Pig = Increased recruitment speed, increased harrasment behavior, stronger economy
-		- Wolf = 1 siegetower and 3 shields to besiege
+		- Rat = 2 shields to besiege, 1 Spearman to dig his own moat
+		- snake = 1 shield to besiege
+		- Pig = Increased recruitment speed, added a few harrasment units, stronger economy
+		- Wolf = 1 siege tower and 3 shields to besiege
 		- Saladin = 3 shields to besiege
 		- caliph =
-		- Sultan = 2 shields to besiege
-		- Richard = 2 shields to besiege,  few crossbowmen to defend
+		- Sultan = 2 shields to besiege, building his castle faster
+		- Richard = 2 shields to besiege, few crossbowmen to defend, build his castle faster
 		- Friedrich = 2 shields to besiege
-		- Philip = Build cheese farms, build some crossbowmen, sends knights into sieges, builds 1 quarry, 2 shields to besiege, produces bows and crossbows
-		- Wazir = sends Slingers with his attacking troops, builds 1 batteringram to besiege
+		- Phillip = Build cheese farms, build some crossbowmen, send knights in sieges, build a quarry, 2 shields to besiege, produce bows and crossbows, build his castle faster
+		- Wazir = sends slingshot fighters with his assault troops, builds 1 battering ram to besiege, buys wheat in smaller quantities and tries to store at least 5 wheat on supply
 		- Emir = 2 shields to besiege
-		- Nazir = extra quarry, 1 firebalista to besiege, recruits defensive assasins
-		- Sheriff = 1 siegetower to besiege
-		- Marshal = 1 shield to besiege, more ox teathers
-		- Abbot = recruits pikemen to the moat and defenses [Swiss Guard]
+		- Nazir = extra quarry, 1 fire ballist to besiege, recruits defensive assassins
+		- Sheriff = 1 siege tower to besiege
+		- Marshal = 1 shield to besiege, more ox yokes
+		- Abt = recruits pikemen to the moat and defend [Swiss Guard], builds his castle slower
 
-		- recruit all AIs = recruit more troops to fill in the enemy moat, recruit more Siegeengineers, pitch is no longer sold instantly
-			
+		- recruit all AIs = recruit more troops to the moat, recruit more Siege Equipment Builder pitch is no longer sold instantly
+					
 	}
 	DescrPol
 	{
 		Ten plik .aic naprawia następujące błędy i problemy przeciwników komputerowych:
 
-		- Szczur = 2 tarcze do oblężenia, 1 włócznik do kopania własnej fosy
-		- Snake = 1 tarcza do oblężenia
-		- Świnka = zwiększona szybkość rekrutacji, zwiększone zachowania związane z nękaniem, silniejsza gospodarka
-		- Wilk = 1 siegetower i 3 tarcze do oblężenia
+		- Szczur = 2 tarcze do oblężenia, 1 Włócznik do kopania własnej fosy
+		- wąż = 1 tarcza do oblężenia
+		- Pig = Zwiększona szybkość rekrutacji, dodano kilka jednostek nękania, silniejsza ekonomia
+		- Wilk = 1 wieża oblężnicza i 3 tarcze do oblężenia
 		- Saladin = 3 tarcze do oblężenia
 		- caliph =
-		- Sułtan = 2 tarcze do oblężenia
-		- Richard = 2 tarcze do oblężenia, niewielu kuszników do obrony
+		- Sułtan = 2 tarcze do oblężenia, szybciej budując swój zamek
+		- Richard = 2 tarcze do oblężenia, kilku kuszników do obrony, szybciej buduj swój zamek
 		- Friedrich = 2 tarcze do oblężenia
-		- Philip = Buduj farmy serów, buduj kuszników, wysyłaj rycerzy na oblężenia, buduj 1 kamieniołom, 2 tarcze do oblężenia, produkuje łuki i kusze
-		- Wazir = wysyła Slingerów ze swoimi atakującymi żołnierzami, buduje 1 batteringram do oblężenia
+		- Phillip = Buduj farmy serów, buduj kuszników, wysyłaj rycerzy na oblężenia, buduj kamieniołom, 2 tarcze do oblężenia, produkuj łuki i kusze, buduj zamek szybciej
+		- Wazir = wysyła wojowników procy ze swoimi oddziałami szturmowymi, buduje 1 taran do oblężenia, kupuje pszenicę w mniejszych ilościach i próbuje przechować co najmniej 5 pszenicy na zapas
 		- Emir = 2 tarcze do oblężenia
-		- Nazir = dodatkowy kamieniołom, 1 strażak do oblężenia
-		- Szeryf = 1 siegetower do oblężenia
-		- Marshal = 1 tarcza do oblężenia, więcej ox teathers
-		- Opat = rekrutuje pikinierów do fosy i obrony [Gwardii Szwajcarskiej]
+		- Nazir = dodatkowy kamieniołom, 1 ogień balistyczny do oblężenia, rekrutuje obronnych zabójców
+		- Szeryf = 1 wieża oblężnicza do oblężenia
+		- Marszałek = 1 tarcza do oblężenia, więcej jastrzębi
+		- Abt = rekrutuje pikinierów do fosy i broni [Gwardii Szwajcarskiej], buduje swój zamek wolniej
 
-		- rekrutuj wszystkie AI = rekrutuj więcej żołnierzy, aby wypełnić fosy wroga, rekrutuj więcej Siegeengineers, boisko nie jest już sprzedawane natychmiast
-
+		- rekrutuj wszystkie AI = rekrutuj więcej żołnierzy do fosy, rekrutuj więcej boisku Budowniczego Wyposażenia Oblężniczego nie jest już sprzedawane natychmiast
+		
 		(Google Translate)
 	}
 	DescrRus
 	{
 		Этот .aic исправляет следующие ошибки и причуды AI:
 
-		- Крыса = 2 щита для осады, 1 копейщик, чтобы вырыть свой собственный ров
-		- Змея = 1 щит, чтобы осадить
-		- Свинья = Увеличенная скорость найма, усиленное поведение в сфере преследования, более сильная экономика
+		- Крыса = 2 щита для осады, 1 копейщик, чтобы вырыть свой ров
+		- змея = 1 щит, чтобы осадить
+		- Свинья = Увеличена скорость вербовки, добавлено несколько юнитов, усилена экономика
 		- Волк = 1 осадная башня и 3 щита для осады
 		- Саладин = 3 щита для осады
 		- халиф =
-		- Султан = 2 щита, чтобы осадить
-		- Ричард = 2 щита для осады, несколько арбалетчиков для защиты
+		- Султан = 2 щита для осады, строительство его замка быстрее
+		- Ричард = 2 щита для осады, несколько арбалетчиков для защиты, построить свой замок быстрее
 		- Фридрих = 2 щита для осады
-		- Филипп = Построить сырные фермы, построить несколько арбалетчиков, отправить рыцарей в осаду, построить 1 карьер, 2 щита для осады, изготовить луки и арбалеты
-		- Вазир = отправляет Слингеров со своими атакующими войсками, строит 1 бэттинграм для осады
+		- Филипп = Построить сырные фермы, построить несколько арбалетчиков, отправить рыцарей в осаду, построить карьер, 2 щита для осады, изготовить луки и арбалеты, построить свой замок быстрее
+		- Вазир = отправляет бойцов рогатки со своими штурмовыми отрядами, строит 1 таран для осады, закупает пшеницу в меньших количествах и пытается хранить как минимум 5 пшениц при поставке
 		- Эмир = 2 щита для осады
-		- Назир = дополнительный карьер, 1 огненный бластер, чтобы осадить
-		- Шериф = 1 осадная башня для осады
-		- Маршал = 1 щит для осады, больше бычьих учителей
-		- Аббат = вербует пикинеров в ров и оборону [Швейцарская гвардия]
+		- Назир = дополнительный карьер, 1 огненный баллист, чтобы осадить, набирает защитных убийц
+		- Шериф = 1 осадная башня, чтобы осадить
+		- Маршал = 1 щит для осады, больше волов
+		- Abt = нанимает пикинеров в ров и защищает [швейцарскую гвардию], строит свой замок медленнее
 
-		- набирать всех ИИ = набирать больше войск, чтобы заполнить вражеский ров, набирать больше осадных машин, поле больше не продается мгновенно
+		- набирать всех ИИ = набирать больше войск в ров, набирать больше поля Осадного строителя снаряжения больше не продается мгновенно
 		
 		(Google Translate)
 	}
