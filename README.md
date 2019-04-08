@@ -1,4 +1,4 @@
-# StrongholdsOfConquest_
+# StrongholdsOfConquest_ ![Conquest](https://github.com/Monsterfisch/StrongholdsOfConquest_/raw/master/presentation/pack.png)
 
 A complete rework of the Stronghold Crusader AI castles based on historical examples. Featuring realistic and unique designs, while bringing productivity and fighting power of the AI characters to a challenging level.
 
@@ -32,7 +32,7 @@ A big shoutout and thank you to
 
 
 
--[FireFly Studios](https://fireflyworlds.com/) for creating Stronghold in the first place
+-[firefly Studios](https://fireflyworlds.com/) for creating Stronghold in the first place
 
 -[Showd0wn](https://github.com/Sh0wdown) for making the patcher that finally made me get up my ass and do the aivs (cheers for increased gamespeed)
 
