@@ -40,3 +40,5 @@ A big shoutout and thank you to
 
 -[Heroesflorian ](https://github.com/Heroesflorian) for aiding with feedback and helpful information
 
+If you have Questions suggestions etc feel free to leave a supportticket or contact me via discord under Monsterfish_#7254
+
