@@ -4,7 +4,26 @@ AIFileHeader
 	{
 		Diese .aic behebt die folgenden Fehler und Macken der KIs:
 
-		- Verschiedene anpassungen 
+		- Ratte = 2 Schilde zum Belagern, 1 Speerträger zum seinen eigenen Burggraben auszuheben
+		- Schlange = 1 Schild zum Belagern 
+		- Schwein = Erhöhte Rekrutiergeschwindigkeit, erhöhtes Störverhalten, stärkere Wirtschaft
+		- Wolf = 1 Belagerungsturm und 3 Schilde zum Belagern 
+		- Saladin =  3 Schilde zum Belagern
+		- Kalif = 
+		- Sultan = 2 Schilde zum Belagern, baut seine Burg schneller auf
+		- Richard = 2 Schilde zum Belagern, wenige Armbrustschützen zur Verteidigung, baut seine Burg schneller auf
+		- Friedrich = 2 Schilde zum Belagern
+		- Phillip = Baut Käsefarmen, baut ein paar Armbrustschützen, sendet Ritter bei Belagerungen mit, baut einen Steinbruch, 2 Schilde zum Belagern, produziert Bögen und Armbrüste, baut seine Burg schneller auf
+		- Wazir = sendet Schleuderkämpfer mit seinen Angriffstruppen, baut 1 Rammbock zum Belagern
+		- Emir = 2 Schilde zum Belagern
+		- Nazir =extra steinbruch,  1 Feuerbaliste zum Belagern, rekrutiert defensive Meuchelmörder
+		- Scheriff = 1 Belagerungsturm zum Belagern 
+		- Marschall = 1 Schild zum Belagern, mehr Ochsenjoche
+		- Abt= rekrutiert Pikeniere zum Burggraben zuschütten und zur Verteidigung [Schweizer Garde], baut seine Burg langsamer auf
+
+		- alle AIs = rekrutieren mehr Truppen zum Burggraben zuzuschütten, Rekrutiern mehr Baumeister für Belagerungsgeräte Pech wird nicht mehr sofort verkauft
+
+
 
 		
 	}
@@ -12,53 +31,75 @@ AIFileHeader
 	{
 		This .aic fixes the following bugs and quirks of the AI:
 
-		- varius changes
+		- Rat = 2 shields to besiege, 1 spearman to dig his own moat
+		- Snake = 1 shield to besiege
+		- Pig = Increased recruitment speed, increased harrasment behavior, stronger economy
+		- Wolf = 1 siegetower and 3 shields to besiege
+		- Saladin = 3 shields to besiege
+		- caliph =
+		- Sultan = 2 shields to besiege
+		- Richard = 2 shields to besiege,  few crossbowmen to defend
+		- Friedrich = 2 shields to besiege
+		- Philip = Build cheese farms, build some crossbowmen, sends knights into sieges, builds 1 quarry, 2 shields to besiege, produces bows and crossbows
+		- Wazir = sends Slingers with his attacking troops, builds 1 batteringram to besiege
+		- Emir = 2 shields to besiege
+		- Nazir = extra quarry, 1 firebalista to besiege, recruits defensive assasins
+		- Sheriff = 1 siegetower to besiege
+		- Marshal = 1 shield to besiege, more ox teathers
+		- Abbot = recruits pikemen to the moat and defenses [Swiss Guard]
 
-		
+		- recruit all AIs = recruit more troops to fill in the enemy moat, recruit more Siegeengineers, pitch is no longer sold instantly
+			
 	}
 	DescrPol
 	{
 		Ten plik .aic naprawia następujące błędy i problemy przeciwników komputerowych:
 
-		- Szczur powoli odnawia swoją obronę
+		- Szczur = 2 tarcze do oblężenia, 1 włócznik do kopania własnej fosy
+		- Snake = 1 tarcza do oblężenia
+		- Świnka = zwiększona szybkość rekrutacji, zwiększone zachowania związane z nękaniem, silniejsza gospodarka
+		- Wilk = 1 siegetower i 3 tarcze do oblężenia
+		- Saladin = 3 tarcze do oblężenia
+		- caliph =
+		- Sułtan = 2 tarcze do oblężenia
+		- Richard = 2 tarcze do oblężenia, niewielu kuszników do obrony
+		- Friedrich = 2 tarcze do oblężenia
+		- Philip = Buduj farmy serów, buduj kuszników, wysyłaj rycerzy na oblężenia, buduj 1 kamieniołom, 2 tarcze do oblężenia, produkuje łuki i kusze
+		- Wazir = wysyła Slingerów ze swoimi atakującymi żołnierzami, buduje 1 batteringram do oblężenia
+		- Emir = 2 tarcze do oblężenia
+		- Nazir = dodatkowy kamieniołom, 1 strażak do oblężenia
+		- Szeryf = 1 siegetower do oblężenia
+		- Marshal = 1 tarcza do oblężenia, więcej ox teathers
+		- Opat = rekrutuje pikinierów do fosy i obrony [Gwardii Szwajcarskiej]
 
-		- Król Filip ma obronę na poziomie Szczura
+		- rekrutuj wszystkie AI = rekrutuj więcej żołnierzy, aby wypełnić fosy wroga, rekrutuj więcej Siegeengineers, boisko nie jest już sprzedawane natychmiast
 
-		- Fryderyk, Marszałek, Emir i Opat kupują bronie
-
-		- Wezyr kupuje chleb w razie potrzeby
-
-		- Nizar kupuje chleb, zamiast jabłek
-
-		- Sułtan kupuje też chleb i ser
-
-		- Wezyr zawsze stara się mieć przynajmniej 5 sztuk pszenicy w składzie, zamiast 2
-
-		- Wezyr, Emir, Marszałek i Król Filip kupują jedzenie i pszenicę po 10 sztuk, zamiast po 20
-
-		
+		(Google Translate)
 	}
 	DescrRus
 	{
 		Этот .aic исправляет следующие ошибки и причуды AI:
 
-		- Крыса снова медленно усиливает свою защиту
+		- Крыса = 2 щита для осады, 1 копейщик, чтобы вырыть свой собственный ров
+		- Змея = 1 щит, чтобы осадить
+		- Свинья = Увеличенная скорость найма, усиленное поведение в сфере преследования, более сильная экономика
+		- Волк = 1 осадная башня и 3 щита для осады
+		- Саладин = 3 щита для осады
+		- халиф =
+		- Султан = 2 щита, чтобы осадить
+		- Ричард = 2 щита для осады, несколько арбалетчиков для защиты
+		- Фридрих = 2 щита для осады
+		- Филипп = Построить сырные фермы, построить несколько арбалетчиков, отправить рыцарей в осаду, построить 1 карьер, 2 щита для осады, изготовить луки и арбалеты
+		- Вазир = отправляет Слингеров со своими атакующими войсками, строит 1 бэттинграм для осады
+		- Эмир = 2 щита для осады
+		- Назир = дополнительный карьер, 1 огненный бластер, чтобы осадить
+		- Шериф = 1 осадная башня для осады
+		- Маршал = 1 щит для осады, больше бычьих учителей
+		- Аббат = вербует пикинеров в ров и оборону [Швейцарская гвардия]
 
-		- У Филиппа есть оборонительные сооружения на крыше Крысы
-
-		- Фредерик, Маршал, Эмир и Аббат покупают оборудование
-
-		- Вазир покупает хлеб если нужно
-
-		- Низар покупает хлеб вместо яблок
-
-		- Султан также покупает сыр и хлеб
-
-		- Вазир всегда стремится к как минимум 5 пшениц на складе вместо 2
-
-		- Вазир, Эмир, Маршал и Филипп покупают продовольствие и пшеницу в запасах по 10 вместо 20
-
+		- набирать всех ИИ = набирать больше войск, чтобы заполнить вражеский ров, набирать больше осадных машин, поле больше не продается мгновенно
 		
+		(Google Translate)
 	}
 }
 
@@ -335,7 +376,7 @@ AICharacter
 		SortieUnitRanged	= EuropArcher
 		SortieUnitMeleeMax	= 6
 		SortieUnitMelee	= Spearman
-		DefDiggingUnitMax	= 0
+		DefDiggingUnitMax	= 1
 		DefDiggingUnit	= Spearman
 		RecruitInterval	= 1
 		RecruitIntervalWeak	= 1
@@ -391,7 +432,7 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 1000
 		Unknown142	= 0
-		AttMaxEngineers	= 2
+		AttMaxEngineers	= 6
 		AttDiggingUnit	= Spearman
 		AttDiggingUnitMax	= 30
 		AttUnit2	= EuropArcher
@@ -414,7 +455,7 @@ AICharacter
 		AttUnitMain2	= None
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 1
 		TargetChoice	= Player
 	}
@@ -569,7 +610,7 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 1000
 		Unknown142	= 0
-		AttMaxEngineers	= 3
+		AttMaxEngineers	= 8
 		AttDiggingUnit	= Spearman
 		AttDiggingUnitMax	= 30
 		AttUnit2	= EuropArcher
@@ -592,7 +633,7 @@ AICharacter
 		AttUnitMain2	= None
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 1
 		TargetChoice	= Balanced
 	}
@@ -626,14 +667,14 @@ AICharacter
 		Farm8	= None
 		PopulationPerFarm	= 4
 		PopulationPerWoodcutter	= 6
-		PopulationPerQuarry	= 32
-		PopulationPerIronmine	= 13
+		PopulationPerQuarry	= 25
+		PopulationPerIronmine	= 10
 		PopulationPerPitchrig	= 20
-		MaxQuarries	= 2
+		MaxQuarries	= 3
 		MaxIronmines	= 4
 		MaxWoodcutters	= 8
 		MaxPitchrigs	= 1
-		MaxFarms	= 12
+		MaxFarms	= 16
 		BuildInterval	= 3
 		ResourceRebuildDelay	= 50
 		MaxFood	= 400
@@ -647,16 +688,16 @@ AICharacter
 		Unknown040	= 12
 		Unknown041	= 100
 		Unknown042	= 60
-		MaxWood	= 70
+		MaxWood	= 96
 		MaxStone	= 40
-		MaxResourceOther	= 10
+		MaxResourceOther	= 12
 		MaxEquipment	= 10
 		MaxBeer	= 5
 		MaxResourceVariance	= 5
 		Unknown049	= 200
 		BlacksmithSetting	= Maces
 		FletcherSetting	= Crossbows
-		PoleturnerSetting	= Spears
+		PoleturnerSetting	= Pikes
 		SellResource01	= None
 		SellResource02	= Hop
 		SellResource03	= None
@@ -682,34 +723,34 @@ AICharacter
 		RecruitProbDefWeak	= 100
 		RecruitProbDefStrong	= 30
 		RecruitProbRaidDefault	= 0
-		RecruitProbRaidWeak	= 0
-		RecruitProbRaidStrong	= 0
-		RecruitProbAttackDefault	= 40
+		RecruitProbRaidWeak	= 10
+		RecruitProbRaidStrong	= 10
+		RecruitProbAttackDefault	= 30
 		RecruitProbAttackWeak	= 0
-		RecruitProbAttackStrong	= 70
+		RecruitProbAttackStrong	= 60
 		SortieUnitRangedMax	= 4
 		SortieUnitRanged	= Crossbowman
 		SortieUnitMeleeMax	= 5
 		SortieUnitMelee	= Maceman
-		DefDiggingUnitMax	= 0
-		DefDiggingUnit	= Spearman
-		RecruitInterval	= 1
-		RecruitIntervalWeak	= 1
-		RecruitIntervalStrong	= 2
-		DefTotal	= 40
+		DefDiggingUnitMax	= 1
+		DefDiggingUnit	= Maceman
+		RecruitInterval	= 3
+		RecruitIntervalWeak	= 2
+		RecruitIntervalStrong	= 3
+		DefTotal	= 70
 		Unknown093	= 2
 		Unknown094	= 1
 		Unknown095	= 20
-		DefWalls	= 30
+		DefWalls	= 60
 		DefUnit1	= Crossbowman
 		DefUnit2	= Crossbowman
 		DefUnit3	= Crossbowman
-		DefUnit4	= None
+		DefUnit4	= Maceman
 		DefUnit5	= None
 		DefUnit6	= None
 		DefUnit7	= None
 		DefUnit8	= None
-		RaidUnitsBase	= 10
+		RaidUnitsBase	= 5
 		RaidUnitsRandom	= 5
 		RaidUnit1	= Maceman
 		RaidUnit2	= None
@@ -730,7 +771,7 @@ AICharacter
 		Unknown123	= 2
 		Unknown124	= 3
 		AttForceBase	= 10
-		AttForceRandom	= 12
+		AttForceRandom	= 100
 		Unknown127	= 10
 		Unknown128	= 60
 		Unknown129	= 100
@@ -741,36 +782,36 @@ AICharacter
 		SiegeEngine2	= Catapult
 		SiegeEngine3	= Catapult
 		SiegeEngine4	= BatteringRam
-		SiegeEngine5	= Shield
+		SiegeEngine5	= BatteringRam
 		SiegeEngine6	= None
 		SiegeEngine7	= None
 		SiegeEngine8	= None
 		Unknown141	= 30
 		Unknown142	= 0
-		AttMaxEngineers	= 9
+		AttMaxEngineers	= 18
 		AttDiggingUnit	= Maceman
-		AttDiggingUnitMax	= 20
+		AttDiggingUnitMax	= 40
 		AttUnit2	= None
 		AttUnit2Max	= 0
 		AttMaxAssassins	= 0
 		AttMaxLaddermen	= 0
 		AttMaxTunnelers	= 0
-		AttUnitRangedPush	= None
-		AttUnitRangedPushMax	= 4
+		AttUnitRangedPush	= Crossbowman
+		AttUnitRangedPushMax	= 45
 		Unknown153	= 0
 		AttUnitBackup	= Crossbowman
 		AttUnitBackupMax	= 5
 		Unknown156	= 1
 		AttUnit5	= None
 		AttUnit5Max	= 0
-		AttUnitSiegeDef	= Crossbowman
+		AttUnitSiegeDef	= Maceman
 		AttUnitSiegeDefMax	= 0
 		Unknown161	= 0
 		AttUnitMain1	= Maceman
 		AttUnitMain2	= None
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 2
 		TargetChoice	= Gold
 	}
@@ -833,7 +874,7 @@ AICharacter
 		MaxResourceVariance	= 5
 		Unknown049	= 200
 		BlacksmithSetting	= Swords
-		FletcherSetting	= Crossbows
+		FletcherSetting	= Both
 		PoleturnerSetting	= Pikes
 		SellResource01	= None
 		SellResource02	= None
@@ -883,7 +924,7 @@ AICharacter
 		DefUnit2	= Crossbowman
 		DefUnit3	= EuropArcher
 		DefUnit4	= EuropArcher
-		DefUnit5	= None
+		DefUnit5	= ArabArcher
 		DefUnit6	= None
 		DefUnit7	= None
 		DefUnit8	= None
@@ -925,7 +966,7 @@ AICharacter
 		SiegeEngine8	= Shield
 		Unknown141	= 8
 		Unknown142	= 0
-		AttMaxEngineers	= 17
+		AttMaxEngineers	= 22
 		AttDiggingUnit	= Pikeman
 		AttDiggingUnitMax	= 25
 		AttUnit2	= None
@@ -948,7 +989,7 @@ AICharacter
 		AttUnitMain2	= Pikeman
 		Unknown164	= 25
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 3
 		TargetChoice	= Closest
 	}
@@ -1093,17 +1134,17 @@ AICharacter
 		Unknown130	= 4
 		Unknown131	= 1
 		Unknown132	= 60
-		SiegeEngine1	= FireBallista
+		SiegeEngine1	= Shield
 		SiegeEngine2	= FireBallista
 		SiegeEngine3	= Catapult
 		SiegeEngine4	= Catapult
-		SiegeEngine5	= Shield
+		SiegeEngine5	= FireBallista
 		SiegeEngine6	= Shield
 		SiegeEngine7	= Shield
-		SiegeEngine8	= Shield
+		SiegeEngine8	= None
 		Unknown141	= 2000
 		Unknown142	= 0
-		AttMaxEngineers	= 12
+		AttMaxEngineers	= 18
 		AttDiggingUnit	= Slave
 		AttDiggingUnitMax	= 50
 		AttUnit2	= HorseArcher
@@ -1126,7 +1167,7 @@ AICharacter
 		AttUnitMain2	= None
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 3
 		TargetChoice	= Gold
 	}
@@ -1281,7 +1322,7 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 7
 		Unknown142	= 0
-		AttMaxEngineers	= 6
+		AttMaxEngineers	= 10
 		AttDiggingUnit	= Slave
 		AttDiggingUnitMax	= 50
 		AttUnit2	= ArabSwordsman
@@ -1304,7 +1345,7 @@ AICharacter
 		AttUnitMain2	= None
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 5
 		TargetChoice	= Balanced
 	}
@@ -1346,7 +1387,7 @@ AICharacter
 		MaxWoodcutters	= 15
 		MaxPitchrigs	= 1
 		MaxFarms	= 6
-		BuildInterval	= 5
+		BuildInterval	= 4
 		ResourceRebuildDelay	= 80
 		MaxFood	= 500
 		MinimumApples	= 20
@@ -1459,7 +1500,7 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 10000
 		Unknown142	= 0
-		AttMaxEngineers	= 2
+		AttMaxEngineers	= 6
 		AttDiggingUnit	= Slave
 		AttDiggingUnitMax	= 300
 		AttUnit2	= None
@@ -1482,7 +1523,7 @@ AICharacter
 		AttUnitMain2	= None
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 1
 		TargetChoice	= Closest
 	}
@@ -1516,7 +1557,7 @@ AICharacter
 		Farm8	= None
 		PopulationPerFarm	= 4
 		PopulationPerWoodcutter	= 7
-		PopulationPerQuarry	= 10
+		PopulationPerQuarry	= 12
 		PopulationPerIronmine	= 10
 		PopulationPerPitchrig	= 2
 		MaxQuarries	= 3
@@ -1524,7 +1565,7 @@ AICharacter
 		MaxWoodcutters	= 10
 		MaxPitchrigs	= 1
 		MaxFarms	= 15
-		BuildInterval	= 4
+		BuildInterval	= 3
 		ResourceRebuildDelay	= 20
 		MaxFood	= 200
 		MinimumApples	= 5
@@ -1545,7 +1586,7 @@ AICharacter
 		MaxResourceVariance	= 4
 		Unknown049	= 200
 		BlacksmithSetting	= Swords
-		FletcherSetting	= Bows
+		FletcherSetting	= Both
 		PoleturnerSetting	= Pikes
 		SellResource01	= None
 		SellResource02	= Hop
@@ -1555,12 +1596,12 @@ AICharacter
 		SellResource06	= Beer
 		SellResource07	= Flour
 		SellResource08	= None
-		SellResource09	= Crossbows
+		SellResource09	= None
 		SellResource10	= Spears
 		SellResource11	= None
 		SellResource12	= Maces
 		SellResource13	= None
-		SellResource14	= LeatherArmors
+		SellResource14	= None
 		SellResource15	= None
 		Unknown068	= 8
 		Unknown069	= 4
@@ -1594,7 +1635,7 @@ AICharacter
 		DefUnit1	= EuropArcher
 		DefUnit2	= EuropArcher
 		DefUnit3	= Pikeman
-		DefUnit4	= None
+		DefUnit4	= Crossbowman
 		DefUnit5	= None
 		DefUnit6	= None
 		DefUnit7	= None
@@ -1633,11 +1674,11 @@ AICharacter
 		SiegeEngine4	= BatteringRam
 		SiegeEngine5	= Trebuchet
 		SiegeEngine6	= Trebuchet
-		SiegeEngine7	= None
-		SiegeEngine8	= None
+		SiegeEngine7	= Shield
+		SiegeEngine8	= Shield
 		Unknown141	= 10000
 		Unknown142	= 0
-		AttMaxEngineers	= 16
+		AttMaxEngineers	= 24
 		AttDiggingUnit	= Pikeman
 		AttDiggingUnitMax	= 15
 		AttUnit2	= None
@@ -1660,7 +1701,7 @@ AICharacter
 		AttUnitMain2	= Pikeman
 		Unknown164	= 25
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 3
 		TargetChoice	= Closest
 	}
@@ -1815,7 +1856,7 @@ AICharacter
 		SiegeEngine8	= Shield
 		Unknown141	= 10000
 		Unknown142	= 0
-		AttMaxEngineers	= 20
+		AttMaxEngineers	= 24
 		AttDiggingUnit	= EuropArcher
 		AttDiggingUnitMax	= 30
 		AttUnit2	= None
@@ -1838,7 +1879,7 @@ AICharacter
 		AttUnitMain2	= Swordsman
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 4
 		TargetChoice	= Gold
 	}
@@ -1872,7 +1913,7 @@ AICharacter
 		Farm8	= None
 		PopulationPerFarm	= 5
 		PopulationPerWoodcutter	= 7
-		PopulationPerQuarry	= 12
+		PopulationPerQuarry	= 8
 		PopulationPerIronmine	= 7
 		PopulationPerPitchrig	= 0
 		MaxQuarries	= 1
@@ -1880,7 +1921,7 @@ AICharacter
 		MaxWoodcutters	= 10
 		MaxPitchrigs	= 1
 		MaxFarms	= 8
-		BuildInterval	= 4
+		BuildInterval	= 3
 		ResourceRebuildDelay	= 60
 		MaxFood	= 100
 		MinimumApples	= 10
@@ -1901,7 +1942,7 @@ AICharacter
 		MaxResourceVariance	= 4
 		Unknown049	= 200
 		BlacksmithSetting	= Swords
-		FletcherSetting	= both
+		FletcherSetting	= Both
 		PoleturnerSetting	= Spears
 		SellResource01	= None
 		SellResource02	= Hop
@@ -1993,7 +2034,7 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 10000
 		Unknown142	= 0
-		AttMaxEngineers	= 2
+		AttMaxEngineers	= 6
 		AttDiggingUnit	= Spearman
 		AttDiggingUnitMax	= 60
 		AttUnit2	= Knight
@@ -2016,7 +2057,7 @@ AICharacter
 		AttUnitMain2	= Knight
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 400
+		AttMaxDefault	= 3000
 		Unknown167	= 2
 		TargetChoice	= Balanced
 	}
@@ -2064,7 +2105,7 @@ AICharacter
 		MinimumApples	= -1
 		MinimumCheese	= -1
 		MinimumBread	= 10
-		MinimumWheat	= -1
+		MinimumWheat	= 5
 		MinimumHop	= -1
 		TradeAmountFood	= 5
 		TradeAmountEquipment	= 0
@@ -2171,7 +2212,7 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 10000
 		Unknown142	= 0
-		AttMaxEngineers	= 13
+		AttMaxEngineers	= 18
 		AttDiggingUnit	= Slave
 		AttDiggingUnitMax	= 55
 		AttUnit2	= None
@@ -2191,10 +2232,10 @@ AICharacter
 		AttUnitSiegeDefMax	= 0
 		Unknown161	= 0
 		AttUnitMain1	= ArabSwordsman
-		AttUnitMain2	= None
+		AttUnitMain2	= Slinger
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 2
 		TargetChoice	= Balanced
 	}
@@ -2349,7 +2390,7 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 10000
 		Unknown142	= 0
-		AttMaxEngineers	= 8
+		AttMaxEngineers	= 14
 		AttDiggingUnit	= EuropArcher
 		AttDiggingUnitMax	= 25
 		AttUnit2	= None
@@ -2372,7 +2413,7 @@ AICharacter
 		AttUnitMain2	= None
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 2
 		TargetChoice	= Gold
 	}
@@ -2406,13 +2447,13 @@ AICharacter
 		Farm8	= None
 		PopulationPerFarm	= 3
 		PopulationPerWoodcutter	= 7
-		PopulationPerQuarry	= 30
+		PopulationPerQuarry	= 20
 		PopulationPerIronmine	= 10
 		PopulationPerPitchrig	= 15
 		MaxQuarries	= 2
-		MaxIronmines	= 2
-		MaxWoodcutters	= 12
-		MaxPitchrigs	= 2
+		MaxIronmines	= 3
+		MaxWoodcutters	= 8
+		MaxPitchrigs	= 1
 		MaxFarms	= 16
 		BuildInterval	= 1
 		ResourceRebuildDelay	= 20
@@ -2420,7 +2461,7 @@ AICharacter
 		MinimumApples	= -1
 		MinimumCheese	= -1
 		MinimumBread	= 10
-		MinimumWheat	= 5
+		MinimumWheat	= 7
 		MinimumHop	= 5
 		TradeAmountFood	= 10
 		TradeAmountEquipment	= 0
@@ -2431,7 +2472,7 @@ AICharacter
 		MaxStone	= 40
 		MaxResourceOther	= 10
 		MaxEquipment	= 4
-		MaxBeer	= 10
+		MaxBeer	= 15
 		MaxResourceVariance	= 4
 		Unknown049	= 100
 		BlacksmithSetting	= Swords
@@ -2460,36 +2501,36 @@ AICharacter
 		Unknown073	= 20
 		RecruitProbDefDefault	= 50
 		RecruitProbDefWeak	= 80
-		RecruitProbDefStrong	= 20
+		RecruitProbDefStrong	= 30
 		RecruitProbRaidDefault	= 20
 		RecruitProbRaidWeak	= 0
-		RecruitProbRaidStrong	= 30
+		RecruitProbRaidStrong	= 25
 		RecruitProbAttackDefault	= 30
 		RecruitProbAttackWeak	= 20
-		RecruitProbAttackStrong	= 50
+		RecruitProbAttackStrong	= 45
 		SortieUnitRangedMax	= 5
 		SortieUnitRanged	= ArabArcher
 		SortieUnitMeleeMax	= 15
-		SortieUnitMelee	= Maceman
-		DefDiggingUnitMax	= 60
+		SortieUnitMelee	= Assassin
+		DefDiggingUnitMax	= 40
 		DefDiggingUnit	= Slave
 		RecruitInterval	= 4
-		RecruitIntervalWeak	= 8
+		RecruitIntervalWeak	= 4
 		RecruitIntervalStrong	= 1
-		DefTotal	= 80
+		DefTotal	= 150
 		Unknown093	= 1
 		Unknown094	= 1
 		Unknown095	= 2
-		DefWalls	= 80
+		DefWalls	= 150
 		DefUnit1	= ArabArcher
-		DefUnit2	= None
-		DefUnit3	= None
-		DefUnit4	= None
-		DefUnit5	= None
-		DefUnit6	= None
-		DefUnit7	= None
+		DefUnit2	= ArabArcher
+		DefUnit3	= ArabArcher
+		DefUnit4	= ArabArcher
+		DefUnit5	= ArabArcher
+		DefUnit6	= Assassin
+		DefUnit7	= Assassin
 		DefUnit8	= None
-		RaidUnitsBase	= 5
+		RaidUnitsBase	= 25
 		RaidUnitsRandom	= 5
 		RaidUnit1	= Assassin
 		RaidUnit2	= None
@@ -2509,7 +2550,7 @@ AICharacter
 		Unknown122	= 0
 		Unknown123	= 0
 		Unknown124	= 4
-		AttForceBase	= 40
+		AttForceBase	= 60
 		AttForceRandom	= 0
 		Unknown127	= 10
 		Unknown128	= 50
@@ -2517,7 +2558,7 @@ AICharacter
 		Unknown130	= 0
 		Unknown131	= 5
 		Unknown132	= 50
-		SiegeEngine1	= Catapult
+		SiegeEngine1	= FireBallista
 		SiegeEngine2	= None
 		SiegeEngine3	= None
 		SiegeEngine4	= None
@@ -2527,16 +2568,16 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 10000
 		Unknown142	= 0
-		AttMaxEngineers	= 0
+		AttMaxEngineers	= 4
 		AttDiggingUnit	= Slave
-		AttDiggingUnitMax	= 40
+		AttDiggingUnitMax	= 70
 		AttUnit2	= None
 		AttUnit2Max	= 0
-		AttMaxAssassins	= 40
+		AttMaxAssassins	= 100
 		AttMaxLaddermen	= 0
 		AttMaxTunnelers	= 0
 		AttUnitRangedPush	= None
-		AttUnitRangedPushMax	= 5
+		AttUnitRangedPushMax	= 0
 		Unknown153	= 0
 		AttUnitBackup	= HorseArcher
 		AttUnitBackupMax	= 0
@@ -2550,7 +2591,7 @@ AICharacter
 		AttUnitMain2	= None
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 4
 		TargetChoice	= Closest
 	}
@@ -2582,7 +2623,7 @@ AICharacter
 		Farm6	= None
 		Farm7	= None
 		Farm8	= None
-		PopulationPerFarm	= 4
+		PopulationPerFarm	= 6
 		PopulationPerWoodcutter	= 7
 		PopulationPerQuarry	= 10
 		PopulationPerIronmine	= 12
@@ -2591,7 +2632,7 @@ AICharacter
 		MaxIronmines	= 6
 		MaxWoodcutters	= 10
 		MaxPitchrigs	= 4
-		MaxFarms	= 10
+		MaxFarms	= 14
 		BuildInterval	= 3
 		ResourceRebuildDelay	= 8
 		MaxFood	= 300
@@ -2651,9 +2692,9 @@ AICharacter
 		SortieUnitMelee	= Maceman
 		DefDiggingUnitMax	= 4
 		DefDiggingUnit	= Maceman
-		RecruitInterval	= 3
+		RecruitInterval	= 2
 		RecruitIntervalWeak	= 1
-		RecruitIntervalStrong	= 4
+		RecruitIntervalStrong	= 3
 		DefTotal	= 50
 		Unknown093	= 1
 		Unknown094	= 1
@@ -2667,12 +2708,12 @@ AICharacter
 		DefUnit6	= None
 		DefUnit7	= None
 		DefUnit8	= None
-		RaidUnitsBase	= 10
+		RaidUnitsBase	= 20
 		RaidUnitsRandom	= 4
 		RaidUnit1	= Maceman
-		RaidUnit2	= None
-		RaidUnit3	= None
-		RaidUnit4	= None
+		RaidUnit2	= Maceman
+		RaidUnit3	= Maceman
+		RaidUnit4	= Crossbowman
 		RaidUnit5	= None
 		RaidUnit6	= None
 		RaidUnit7	= None
@@ -2705,7 +2746,7 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 6
 		Unknown142	= 0
-		AttMaxEngineers	= 14
+		AttMaxEngineers	= 18
 		AttDiggingUnit	= Slave
 		AttDiggingUnitMax	= 80
 		AttUnit2	= Maceman
@@ -2728,7 +2769,7 @@ AICharacter
 		AttUnitMain2	= Maceman
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 3
 		TargetChoice	= Closest
 	}
@@ -2762,7 +2803,7 @@ AICharacter
 		Farm8	= None
 		PopulationPerFarm	= 5
 		PopulationPerWoodcutter	= 7
-		PopulationPerQuarry	= 7
+		PopulationPerQuarry	= 11
 		PopulationPerIronmine	= 7
 		PopulationPerPitchrig	= 0
 		MaxQuarries	= 1
@@ -2875,7 +2916,7 @@ AICharacter
 		Unknown132	= 70
 		SiegeEngine1	= Trebuchet
 		SiegeEngine2	= Trebuchet
-		SiegeEngine3	= None
+		SiegeEngine3	= Shield
 		SiegeEngine4	= None
 		SiegeEngine5	= None
 		SiegeEngine6	= None
@@ -2883,7 +2924,7 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 10000
 		Unknown142	= 0
-		AttMaxEngineers	= 6
+		AttMaxEngineers	= 14
 		AttDiggingUnit	= EuropArcher
 		AttDiggingUnitMax	= 30
 		AttUnit2	= None
@@ -2906,7 +2947,7 @@ AICharacter
 		AttUnitMain2	= None
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 2
 		TargetChoice	= Balanced
 	}
@@ -2948,7 +2989,7 @@ AICharacter
 		MaxWoodcutters	= 10
 		MaxPitchrigs	= 0
 		MaxFarms	= 12
-		BuildInterval	= 2
+		BuildInterval	= 4
 		ResourceRebuildDelay	= 40
 		MaxFood	= 100
 		MinimumApples	= 10
@@ -2970,7 +3011,7 @@ AICharacter
 		Unknown049	= 50
 		BlacksmithSetting	= Swords
 		FletcherSetting	= Bows
-		PoleturnerSetting	= Spears
+		PoleturnerSetting	= Pikes
 		SellResource01	= None
 		SellResource02	= None
 		SellResource03	= Iron
@@ -3061,9 +3102,9 @@ AICharacter
 		SiegeEngine8	= None
 		Unknown141	= 10000
 		Unknown142	= 0
-		AttMaxEngineers	= 8
+		AttMaxEngineers	= 14
 		AttDiggingUnit	= Pikeman
-		AttDiggingUnitMax	= 10
+		AttDiggingUnitMax	= 5
 		AttUnit2	= None
 		AttUnit2Max	= 0
 		AttMaxAssassins	= 0
@@ -3084,7 +3125,7 @@ AICharacter
 		AttUnitMain2	= Pikeman
 		Unknown164	= 0
 		Unknown165	= 0
-		AttMaxDefault	= 200
+		AttMaxDefault	= 3000
 		Unknown167	= 2
 		TargetChoice	= Balanced
 	}
