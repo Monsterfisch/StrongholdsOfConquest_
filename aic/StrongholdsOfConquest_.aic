@@ -30,83 +30,79 @@ AIFileHeader
 	}
 	DescrEng
 	{
-		This .aic fixes the following bugs and quirks of the AI:
+		This .aic fixes the following bugs and quirks of the KIs:
 
-		- Rat = 2 shields to besiege, 1 Spearman to dig its own moat, uses more spearmen
-		- Snake = 1 Shield to besiege, sends more Archers into battle
-		- Pig = Increased recruitment speed, stronger economy, increased attack forces, 1 additional battering ram
-		Wolf = 1 siege tower, 1 battering ram and 2 shields to besiege, recruit a little faster, recruit Arab Defense Archers
-		- Saladin = 3 shields to besiege, 1 additional battering ram, attacks slower but with more troops and increases the amount of troops more with each attack
-		- Calif = more farms, build up destroyed farms faster, recruit defensive skaters
-		- Sultan = 2 shields to besiege, building his castle faster, defensive Arab archers,
-		- Richard = 2 shields to besiege, few crossbowmen to defend, build his castle faster
+		- Rat = 2 shields to besiege, 1 spear bearer to dig its own moat, uses more spear bearer 
+		- Snake = 1 shield to besiege, sends more archers into battle
+		- Pig = Increased recruiting speed, stronger economy, increased attack troops, 1 additional battering ram
+		- Wolf = 1 siege tower, 1 battering ram and 2 shields for siege, recruits a little faster, recruits Arab defense archers
+		- Saladin = 3 shields for siege, 1 additional ram, attacks slower but with more troops and increases the amount of troops with each attack.
+		- Kalif = more farms, builds up destroyed farms faster, recruits defensive sling shooters
+		- Sultan = 2 shields to besiege, builds his castle faster, defensive Arab archers, 
+		- Richard = 2 shields to besiege, few crossbowmen to defend, builds his castle more quickly
 		- Friedrich = 2 shields to besiege
-		- Phillip = Build cheese farms, build a pair of crossbowmen, send knights in sieges, build a quarry, build 1 iron mine less, 2 shields to besiege, produce bows and crossbows, build his castle faster, more defense troops
-		- Wazir = sends slingshot fighters with his assault troops, builds 1 battering ram to besiege, buys crops in smaller quantities and tries to store at least 5 crops on supply
-		- Emir = 2 shields to besiege, 1 additional battering ram
-		- Nizar = extra quarry, 1 fire ballist to besiege, recruits defensive assassins, More "climbing assassin killers"
-		- Sheriff = 1 Siege Tower to besiege, more Defense Forces, recruits defensive Mace Fighters, more Mace Fighters to actively block spells, more assault crossbowmen
-		- Marshal = 2 shields to besiege, 1 extra quarry
-		- Abt = recruits pikemen to the moat and defend [Swiss Guard], builds his castle slower
+		- Phillip = builds cheese farms, builds a few crossbowmen, sends knights with sieges, builds a quarry, builds 1 iron mine less, 2 shields to besiege, produces bows and crossbows, builds his castle faster, more defense troops
+		- Wazir = sends sling fighters with his attack troops, builds 1 ram to siege, buys grain in lower quantities and tries to stock at least 5 grain
+		- Emir = 2 shields to lay siege to, 1 additional battering ram
+		- Nizar =extra stone quarry, 1 fire ballist for siege, recruits defensive assassins, more "Climbing assassins
+		- sheriff = 1 siege tower to besiege, more defensive troops, recruits defensive mace fighters, more mace fighters actively stopping disturbance units, more attack arm chest shooters
+		- Marshal = 2 shields to lay siege to, 1 extra quarry 
+		- Abbot= recruits Pikeniere to fill the moat and for defense [Swiss Guard], builds his castle slower
 
-		- recruit all AIs = recruit more troops to the moat, recruit more Siege Equipment Builders Bad luck is no longer sold instantly, many more recruit warriors are recruited
+		- all AIs = recruit more troops to pour into moat, recruit more master builders for siege equipment, pitch no longer sold immediately, recruit many more siege ranged fighters
 
 		and more...
 					
 	}
 	DescrPol
 	{
-		Ten plik .aic naprawia następujące błędy i problemy przeciwników komputerowych:
+		Ten .aic naprawia następujące błędy i dziwactwa KI:
 
-		- Szczur = 2 tarcze do oblężenia, 1 Włócznik do kopania własnej fosy, używa więcej włóczników
-		- Wąż = 1 Tarcza do oblężenia wysyła więcej Łuczników do walki
-		- Świnia = Zwiększona szybkość rekrutacji, silniejsza gospodarka, zwiększone siły ataku, 1 dodatkowy taran
-		Wilk = 1 wieża oblężnicza, 1 taran i 2 tarcze do oblężenia, zwerbuj trochę szybciej, rekrutuj arabskich łuczników obrony
-		- Saladin = 3 tarcze do oblężenia, 1 dodatkowy taran, ataki wolniejsze, ale z większą liczbą żołnierzy i zwiększające liczbę żołnierzy przy każdym ataku
-		- Calif = więcej farm, szybsze niszczenie farm, rekrutacja łyżwiarzy obronnych
-		- Sułtan = 2 tarcze do oblężenia, szybszy budowanie zamku, obronni arabscy ​​łucznicy,
-		- Richard = 2 tarcze do oblężenia, kilku kuszników do obrony, szybciej buduj swój zamek
+		- Szczur = 2 tarcze do oblężenia, 1 włóczniak do wykopania własnej fosy, używa więcej włóczni. 
+		- Wąż = 1 tarcza do oblężenia, wysyła więcej łuczników do walki.
+		- Pig = zwiększona prędkość rekrutacji, silniejsza ekonomia, zwiększona liczba jednostek atakujących, 1 dodatkowy taran do ciosów.
+		- Wilk = 1 wieża oblężnicza, 1 taran i 2 tarcze do oblężenia, rekrutuje nieco szybciej, rekrutuje łuczników obrony arabskiej.
+		- Saladyn = 3 tarcze do oblężenia, 1 dodatkowy tryk, atakuje wolniej, ale z większą ilością oddziałów i zwiększa ilość oddziałów z każdym atakiem.
+		- Kalif = więcej gospodarstw rolnych, szybciej buduje zniszczone gospodarstwa, rekrutuje strzelców z procy obronnej
+		- Sułtan = 2 tarcze do oblężenia, buduje swój zamek szybciej, defensywnie arabscy łucznicy, 
+		- Richard = 2 tarcze do oblężenia, kilku kuszników do obrony, szybciej buduje swój zamek.
 		- Friedrich = 2 tarcze do oblężenia
-		- Phillip = Zbuduj farmy serów, zbuduj kuszników, wyślij rycerzy na oblężenia, zbuduj kamieniołom, zbuduj 1 żelazną kopalnię mniej, 2 tarcze do oblężenia, produkuj łuki i kusze, buduj swój zamek szybciej, więcej oddziałów obrony
-		- Wazir = wysyła wojowników procy ze swoimi oddziałami szturmowymi, buduje 1 taran do oblężenia, kupuje uprawy w mniejszych ilościach i próbuje przechować co najmniej 5 plonów na dostawę
-		- Emir = 2 tarcze do oblężenia, 1 dodatkowy taran
-		- Nizar = dodatkowy kamieniołom, 1 ogień balisty do oblężenia, rekrutuje obronnych zabójców, Więcej „wspinaczy zabójców zabójców”
-		- Szeryf = 1 Wieża Oblężnicza do oblężenia, więcej Sił Obronnych, rekrutuje obronnych Myśliwców Mace, więcej Wojowników Mace, aby aktywnie blokować zaklęcia, więcej kuszników szturmowych
-		- Marszałek = 2 tarcze do oblężenia, 1 dodatkowy kamieniołom
-		- Abt = rekrutuje pikinierów do fosy i broni [Gwardii Szwajcarskiej], buduje swój zamek wolniej
+		- Phillip = buduje farmy serów, buduje kilku kuszaczy, wysyła rycerzy z oblężeniami, buduje kamieniołom, buduje 1 kopalnię żelaza mniej, 2 tarcze do oblężenia, produkuje łuki i kusze, buduje swój zamek szybciej, więcej żołnierzy obrony
+		- Wazir = wysyła myśliwce na proce ze swoimi oddziałami szturmowymi, buduje 1 barana do oblężenia, kupuje ziarno w mniejszych ilościach i stara się zgromadzić co najmniej 5 ziaren.
+		- Emir = 2 tarcze do oblężenia, 1 dodatkowy bijak bateryjny
+		- Nizar =ekstra stone quarry, 1 ognista balistyka do oblężenia, rekrutuje defensywnych zabójców, więcej "Wspinaczkowych zabójców".
+		- szeryf = 1 wieża oblężnicza do oblężenia, bardziej defensywne oddziały, rekrutuje defensywne myśliwce, więcej bojowników macew aktywnie zatrzymujących jednostki zakłócające, więcej strzelców do klatki piersiowej z bronią atakującą
+		- Marszałek = 2 tarcze do oblężenia, 1 dodatkowy kamieniołom 
+		- Abbot= Rekrutuje Pikeniere do wypełnienia fosy i do obrony [Gwardia Szwajcarska], buduje swój zamek wolniej
 
-		- rekrutuj wszystkie AI = rekrutuj więcej żołnierzy do fosy, rekrutuj więcej Budowniczych sprzętu oblężniczego Pech nie jest już sprzedawany natychmiast, rekrutuje się więcej wojowników rekrutujących
+		- wszystkie AI = rekrutacja większej liczby żołnierzy do wlania do fosy, rekrutacja większej liczby mistrzów budowy sprzętu do oblężenia, boisko nie jest już natychmiast sprzedawane, rekrutacja większej liczby bojowników oblężniczych na odległość
 
-		i więcej ... rekrutuj wszystkie AI = rekrutuj więcej żołnierzy do fosy, rekrutuj więcej boisku Budowniczego Wyposażenia Oblężniczego nie jest już sprzedawane natychmiast
-		
-		(Google Translate)
+		i więcej....
 	}
 	DescrRus
 	{
-		Этот .aic исправляет следующие ошибки и причуды AI:
+		Этот .aic исправляет следующие ошибки и причуды KI:
 
-		- Крыса = 2 щита для осады, 1 копейщик, чтобы вырыть свой ров, использует больше копейщиков
-		- Змей = 1 осаждающий щит посылает больше лучников в бой
-		- Свинья = Увеличенная скорость вербовки, более сильная экономика, увеличенные силы атаки, 1 дополнительный таран
-		Волк = 1 осадная башня, 1 таран и 2 щита для осады, набирать немного быстрее, набирать арабских защитников
-		- Саладин = 3 щита для осады, 1 дополнительный таран, атакующий медленнее, но с большим количеством войск и увеличивающий количество войск с каждой атакой
-		- Calif = больше ферм, строить разрушенные фермы быстрее, набирать защитников
-		- Султан = 2 щита для осады, строительство его замка быстрее, оборонительные арабские лучники,
-		- Ричард = 2 щита для осады, несколько арбалетчиков для защиты, построить свой замок быстрее
-		- Фридрих = 2 щита для осады
-		- Филипп = Построить сырные фермы, построить пару арбалетчиков, отправить в осаду рыцарей, построить карьер, построить меньше 1 железного рудника, 2 щита для осады, производить луки и арбалеты, строить свой замок быстрее, больше войск защиты
-		- Вазир = посылает бойцов рогатки со своими штурмовыми отрядами, строит 1 таран для осады, закупает урожай в меньших количествах и пытается хранить как минимум 5 культур при поставке
-		- Эмир = 2 щита для осады, 1 дополнительный таран
-		- Низар = дополнительный карьер, 1 огненный баллист, чтобы осадить, завербовывает защитных убийц, Больше "восставших убийц убийц"
-		- Шериф = 1 Осадная башня для осады, больше Сил обороны, вербовка защитников Мейс Борцов, больше бойцов Мейс, чтобы активно блокировать заклинания, больше штурмовых арбалетчиков
-		- Маршал = 2 щита для осады, 1 дополнительный карьер
-		- Abt = нанимает пикинеров в ров и защищает [швейцарскую гвардию], строит свой замок медленнее
+		- Крыса = 2 щита для осады, один копьёв для рытья собственного рва, использует больше копьёв. 
+		- Змея = 1 щит для осады, посылает больше лучников в бой.
+		- Свинья = увеличение скорости вербовки, повышение экономичности, увеличение численности войск атаки, 1 дополнительный таран-баран
+		- Волк = 1 осадная башня, 1 таран и 2 щита для осады, вербует немного быстрее, завербует арабских лучников обороны.
+		- Саладин = 3 щита для осады, 1 дополнительный таран, атакует медленнее, но с увеличением количества войск и увеличивает количество войск с каждой атакой.
+		- Калиф = больше ферм, быстрее строит разрушенные фермы, набирает оборонительных снайперов.
+		- Султан = 2 щита для осады, строит свой замок быстрее, обороняясь арабскими лучниками, 
+		- Ричард = 2 щита для осады, несколько арбалетчиков для обороны, строит свой замок быстрее.
+		- Фридрих = 2 щита для осады.
+		- Филипп = строит сыродельные фермы, строит несколько арбалетов, отправляет рыцарей с осадами, строит карьер, строит на 1 шахту меньше, 2 щита для осады, производит луки и арбалеты, строит свой замок быстрее, больше войск обороны.
+		- Вазир = посылает строповщиков вместе со своими атакующими войсками, строит 1 таран для осады, покупает зерно в меньшем количестве и пытается закупить не менее 5 штук зерна.
+		- Эмир = 2 щита для осады, 1 дополнительный таран для битья.
+		- Низар = каменоломня Экстра, 1 огненный баллист для осады, новобранцы обороняющихся убийц, больше "Поднимающиеся убийцы
+		- Шериф = 1 осадная башня для осады, более оборонительные войска, новобранцы истребители булавок, больше боевиков, активно останавливающих беспорядки, больше стреляющих в грудь с оружием атаки.
+		- Маршал = 2 щита для осады, 1 дополнительный карьер. 
+		- Аббат = рекрутирует Пикеньера, чтобы заполнить ров и для обороны [швейцарская гвардия] строит свой замок медленнее.
 
-		- Нанимать всех ИИ = набирать больше войск в ров, набирать больше строителей осадного снаряжения. Удача больше не продается мгновенно, набирается гораздо больше воинов-рекрутов.
+		- Все AI = набрать больше солдат, чтобы залить в ров, набрать больше мастеров-строителей для осадной техники, поле больше не продается немедленно, набрать гораздо больше осадных истребителей дальнего радиуса действия.
 
-		и больше...
-
-		(Google Translate)
+		и более того...
 	}
 }
 
