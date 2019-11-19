@@ -61,7 +61,7 @@ Raglan castle				| snake8
 
 village 					| rat1
 village 					| rat2
-village 					| rat3
+Guimarães Castle			| rat3
 village 					| rat4
 village 					| rat5
 village 					| rat6
