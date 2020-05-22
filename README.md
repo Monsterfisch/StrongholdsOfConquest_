@@ -5,6 +5,7 @@ A complete rework of the Stronghold Crusader AI castles based on historical exam
 Apart from a couple of examples (which will get updated), all castles are based on historial plans, reconstructions and other documentations to represent the castles as close as possible while being restricted by the available space and character limitations, in terms of economy.
 
 Note that the AIVs are developed with the Unofficial Crusader Patch in mind, so if you have issues such as the AI economy not getting off the ground or some towers not being manned properly, make sure to get the patch from [here](https://github.com/Sh0wdown/UnofficialCrusaderPatch/releases) and see if the problem persists.
+This pack also comes with an AIC setup that requires the patcher and changes the AI to use larger attacks and gives it a better optimized economy.
 
 
 Here are ingame examples for each character featuring one AIV castle along with plans of its real world counterpart, as well as a full list of the character's castles (name and corresponding AIV file) for reference. Screenshots were taken from a personal edit of mine for the game which can be downloaded from [here](https://github.com/Monsterfisch/StrongholdsOfConquest_/blob/master/StrongholdsOfConquest_VisualEdit.zip) (Highly WIP!). Please note that the edit does have a few minor glitch problems which will hopefully get figured out eventually.

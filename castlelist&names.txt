@@ -19,7 +19,7 @@ Qasr al-Kharana					| caliph4
 Al-Ashiq						| caliph5
 Qasr Tuba						| caliph6
 Resafa							| caliph7
-~~Bagdad							| caliph8
+Bagdad							| caliph8
 
 Tartous  						| Emir1		
 Alhambra	 					| Emir2
