@@ -37,13 +37,13 @@ castle Gravensteen				| frederik4
 castle goodrich					| frederik5
 castle rheinfels				| frederik6
 Malbork castle					| frederik7
-~~Leeds castle						| frederik8
+Leeds castle					| frederik8
 
 Kreuzenstein 					| marshal1
 Wartburg						| marshal2
 ~~ Siege encampment					| marshal3
 ~~ Eltz castle 						| marshal4
-Fleckenstein 					| marshal5
+~~ Fleckenstein 					| marshal5
 Beseno castle 					| marshal6
 Castle y bere					| marshal7
 Vianden Castle					| marshal8
@@ -85,7 +85,7 @@ Broch of Howe					| rat6
 Tremona-Castello				| rat8
 
 Château Gaillard				| Richard1
-~~Trifels 							| Richard2
+Trifels 						| Richard2
 Bonaguil Castle 				| Richard3
 Chinon castle 					| Richard4
 château de Blanquefort			| Richard5
