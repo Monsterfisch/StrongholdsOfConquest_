@@ -41,7 +41,7 @@ Leeds castle					| frederik8
 
 Kreuzenstein 					| marshal1
 Wartburg						| marshal2
-~~ Siege encampment					| marshal3
+Castle Kriebstein					| marshal3
 ~~ Eltz castle 						| marshal4
 ~~ Fleckenstein 					| marshal5
 Beseno castle 					| marshal6
