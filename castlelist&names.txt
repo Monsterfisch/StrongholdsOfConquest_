@@ -41,12 +41,12 @@ Leeds castle					| frederik8
 
 Kreuzenstein 					| marshal1
 Wartburg						| marshal2
-Castle Kriebstein					| marshal3
-~~ Eltz castle 						| marshal4
-~~ Fleckenstein 					| marshal5
+Castle Kriebstein				| marshal3
+Eltz castle 					| marshal4
+Fleckenstein 					| marshal5
 Beseno castle 					| marshal6
 Castle y bere					| marshal7
-Vianden Castle					| marshal8
+~~~ Vianden Castle					| marshal8
 
 Masyaf Castle		 			| Nizar1
 Alamut							| Nizar2
@@ -69,7 +69,7 @@ Orléans							| phillip8
 liechtenstein 					| pig1
 sooneck	 						| pig2
 stahleck 						| pig3
-Falkenstein	austria				| pig4
+Larochette Castle				| pig4
 castle Thurant 					| pig5
 Marksburg	 					| pig6
 hunyad castle					| pig7
@@ -81,7 +81,7 @@ Castle of Guimarães 			| rat3
 Orford Castle					| rat4
 sortelha castle 				| rat5
 Broch of Howe					| rat6
-~~village							| rat7
+Falkenstein	austria				| rat7
 Tremona-Castello				| rat8
 
 Château Gaillard				| Richard1
@@ -111,7 +111,7 @@ pembroke castle					| sherif6
 burghausen						| sherif7
 hohensalzburg					| sherif8
 
-motte and baily 				| snake1
+~~ motte and baily 				| snake1
 gatersleben 					| snake2
 Marienburg	 					| snake3
 Bodiam Castle					| snake4
