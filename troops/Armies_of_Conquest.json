@@ -12,7 +12,7 @@
     "Lord": {
       "StrengthMultiplier": 0.5,
       "DotColour": "Yellow",
-      "DotCount": 5,
+      "DotCount": 1,
       "Type": "Europ"
     },
     "normal": {
@@ -33,7 +33,7 @@
     "Lord": {
       "StrengthMultiplier": 0.7,
       "DotColour": "Yellow",
-      "DotCount": 3,
+      "DotCount": 2,
       "Type": "Europ"
     },
     "normal": {
@@ -54,7 +54,7 @@
     "Lord": {
       "StrengthMultiplier": 1,
       "DotColour": "Yellow",
-      "DotCount": 0,
+      "DotCount": 1,
       "Type": "Europ"
     },
     "normal": {
@@ -117,7 +117,7 @@
     "Lord": {
       "StrengthMultiplier": 1,
       "DotColour": "None",
-      "DotCount": 0,
+      "DotCount": 1,
       "Type": "Arab"
     },
     "normal": {
@@ -138,7 +138,7 @@
     "Lord": {
       "StrengthMultiplier": 0.9,
       "DotColour": "Yellow",
-      "DotCount": 1,
+      "DotCount": 0,
       "Type": "Arab"
     },
     "normal": {
@@ -243,7 +243,7 @@
     "Lord": {
       "StrengthMultiplier": 1,
       "DotColour": "None",
-      "DotCount": 0,
+      "DotCount": 1,
       "Type": "Arab"
     },
     "normal": {
