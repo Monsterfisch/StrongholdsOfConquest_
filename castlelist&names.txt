@@ -3,34 +3,34 @@ StrongholdsOfConquest Castle list
 
 castles marked with ~~ will likely get a rework/update
 
-Vatican							| Abbot1
+Vatican						| Abbot1
 kloster falkenau				| Abbot2
 mount le michael 				| Abbot3
-Chanteuges		 				| Abbot4
+Chanteuges		 			| Abbot4
 Haghpat Monastery 				| Abbot5
 Axente Sever					| Abbot6
 Großcomburg 	 				| Abbot7
-Monastery Maulbronn 			| Abbot8
+Monastery Maulbronn 				| Abbot8
 
-Qasr Burqu'		 				| caliph1
-Qasr al-Hayr al-Sharqi			| caliph2
-Qasr Azraq						| caliph3
+Qasr Burqu'		 			| caliph1
+Qasr al-Hayr al-Sharqi				| caliph2
+Qasr Azraq					| caliph3
 Qasr al-Kharana					| caliph4
-Al-Ashiq						| caliph5
-Qasr Tuba						| caliph6
-Resafa							| caliph7
-Bagdad							| caliph8
+Al-Ashiq					| caliph5
+Qasr Tuba					| caliph6
+Resafa						| caliph7
+Bagdad						| caliph8
 
-Tartous  						| Emir1		
-Alhambra	 					| Emir2
-Jaffa							| Emir3
+Tartous  					| Emir1		
+Alhambra	 				| Emir2
+Jaffa						| Emir3
 Rafiqa/Ar-Raqqah				| Emir4
-Bosra 							| Emir5		
-Diyarbakir						| Emir6
-Nicaea 			 				| Emir7		
-Damascus						| Emir8
+Bosra 						| Emir5		
+Diyarbakir					| Emir6
+Nicaea 			 			| Emir7		
+Damascus					| Emir8
 
-chillion 						| frederik1
+chillion 					| frederik1
 castle del monte				| frederik2
 Trakai Castle					| frederik3
 castle Gravensteen				| frederik4
@@ -40,44 +40,44 @@ Malbork castle					| frederik7
 Leeds castle					| frederik8
 
 Kreuzenstein 					| marshal1
-Wartburg						| marshal2
+Wartburg					| marshal2
 Castle Kriebstein				| marshal3
 Eltz castle 					| marshal4
 Fleckenstein 					| marshal5
 Beseno castle 					| marshal6
 Castle y bere					| marshal7
-~~~ Vianden Castle					| marshal8
+Vianden Castle					| marshal8
 
 Masyaf Castle		 			| Nizar1
-Alamut							| Nizar2
+Alamut						| Nizar2
 Qalaat al-Khawabi				| Nizar3
-Cadmus							| Nizar4
-Al Maniqa						| Nizar5
-Abu Qubays						| Nizar1
-Kahf			 				| Nizar7	
+Cadmus						| Nizar4
+Al Maniqa					| Nizar5
+Abu Qubays					| Nizar1
+Kahf			 			| Nizar7	
 Qalaat-Ollaiqa 					| Nizar8
 	
-Paris			 				| phillip1
-Carcassonne						| phillip2
+Paris			 			| phillip1
+Carcassonne					| phillip2
 chateau de foix					| phillip3
 Fort de Bellegarde				| phillip4
-Alcázar castle (segovia)		| phillip5
-Château de Sully-sur-Loire		| phillip6
+Alcázar castle (segovia)			| phillip5
+Château de Sully-sur-Loire			| phillip6
 castle vitre					| phillip7
-Orléans							| phillip8
+Orléans						| phillip8
 
 liechtenstein 					| pig1
-sooneck	 						| pig2
-stahleck 						| pig3
+sooneck	 					| pig2
+stahleck 					| pig3
 Larochette Castle				| pig4
 castle Thurant 					| pig5
-Marksburg	 					| pig6
+Marksburg	 				| pig6
 hunyad castle					| pig7
 burg Grenzau					| pig8
 
 Castle of Penedono				| rat1
 Rochester Castle 				| rat2
-Castle of Guimarães 			| rat3
+Castle of Guimarães 				| rat3
 Orford Castle					| rat4
 sortelha castle 				| rat5
 Broch of Howe					| rat6
@@ -85,35 +85,35 @@ Falkenstein	austria				| rat7
 Tremona-Castello				| rat8
 
 Château Gaillard				| Richard1
-Trifels 						| Richard2
+Trifels 					| Richard2
 Bonaguil Castle 				| Richard3
 Chinon castle 					| Richard4
-château de Blanquefort			| Richard5
-Castle of Santa Maria da Feira	| Richard6
-Château de Pierrefonds			| Richard7
+château de Blanquefort				| Richard5
+Castle of Santa Maria da Feira			| Richard6
+Château de Pierrefonds				| Richard7
 Hohenzollern					| Richard8
 
 Qal'at Salah El-Din				| saladin1
-Jerusalem	 					| saladin2
-Aleppo		 					| saladin3
+Jerusalem	 				| saladin2
+Aleppo		 				| saladin3
 Constantinople				 	| saladin4
-Antioch							| saladin5
-Akkon							| saladin6
-Alexandria						| saladin7
-Cairo							| saladin8
+Antioch						| saladin5
+Akkon						| saladin6
+Alexandria					| saladin7
+Cairo						| saladin8
 
-crowny 							| sherif1
-nottingham						| sherif2
-London							| sherif3
-Caernarfon						| sherif4
+crowny 						| sherif1
+nottingham					| sherif2
+London						| sherif3
+Caernarfon					| sherif4
 Villerouge-Termenes				| sherif5
 pembroke castle					| sherif6
-burghausen						| sherif7
+burghausen					| sherif7
 hohensalzburg					| sherif8
 
 ~~ motte and baily 				| snake1
 gatersleben 					| snake2
-Marienburg	 					| snake3
+Marienburg	 				| snake3
 Bodiam Castle					| snake4
 Ewloe castle					| snake5
 Sommerau castle 				| snake6
@@ -121,28 +121,28 @@ Caerlaverock Castle				| snake7
 Raglan castle					| snake8
 
 Khan al-Sultan					| Sultan1
-Masjid al-Sultan Barquq			| Sultan2
-Madrasa Sultan Hassan			| Sultan3
-Sultan al-Mansur Qalawun		| Sultan4
+Masjid al-Sultan Barquq				| Sultan2
+Madrasa Sultan Hassan				| Sultan3
+Sultan al-Mansur Qalawun			| Sultan4
 Khirbat al-Mafjar				| Sultan5
-Saragossa						| Sultan6
-Royal Palace of Mari 			| Sultan7
-Qansuh al-Ghuri Complex			| Sultan8
+Saragossa					| Sultan6
+Royal Palace of Mari 				| Sultan7
+Qansuh al-Ghuri Complex				| Sultan8
 
 castle at eš-Šeqîf				| wazir1
 citadel of amman				| wazir2
-Margat							| wazir3
+Margat						| wazir3
 Kerak castle					| wazir4
 Ajloun castle					| wazir5
 Castle of Palmyra				| wazir6
 Castle at Najm					| wazir7
 Castle of Doubiyeh				| wazir8
 
-~~Beaumaris 						| wolf1
-~~Harlech	 						| wolf2
+Beaumaris 					| wolf1
+Harlech	 					| wolf2
 Belvoir [Israel]				| wolf3
 real de manzanares				| wolf4
-castillo de la mota 			| wolf5
+castillo de la mota 				| wolf5
 hohkönigsburg					| wolf6
 krak des chevalier				| wolf7
-caerphilly						| wolf8
+caerphilly					| wolf8
