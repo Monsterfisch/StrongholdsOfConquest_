@@ -168,10 +168,40 @@
         "value": 50
     },
     {
+        "description": "sell_pitch",
+        "address": "0x2173d4",
+        "size": 4,
+        "value": 65
+    },
+    {
+        "description": "buy_pitch",
+        "address": "0x21736c",
+        "size": 4,
+        "value": 115
+    },
+    {
         "description": "tower_one",
         "address": "0x1ba340",
         "size": 4,
         "value": 700
+    },
+    {
+        "description": "cost_tower_five",
+        "address": "0x1c27e8",
+        "size": 4,
+        "value": [
+            0,
+            45,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "description": "tower_five",
+        "address": "0x1ba350",
+        "size": 4,
+        "value": 2600
     },
     {
         "description": "e_engineer",
@@ -231,7 +261,7 @@
         "description": "buy_meat",
         "address": "0x217380",
         "size": 4,
-        "value": 60
+        "value": 80
     },
     {
         "description": "buy_fruit",
@@ -333,7 +363,7 @@
         "description": "e_knight",
         "address": "0x74eb60",
         "size": 4,
-        "value": 21000
+        "value": 20000
     },
     {
         "description": "arrow_dmge_mace",
@@ -483,7 +513,7 @@
         "description": "melee_e_mace_vs_e_sword",
         "address": "0x7510dc",
         "size": 4,
-        "value": 28
+        "value": 29
     },
     {
         "description": "arrow_dmge_sword",
@@ -636,6 +666,12 @@
         "value": 7
     },
     {
+        "description": "melee_e_spear_vs_e_mace",
+        "address": "0x750e58",
+        "size": 4,
+        "value": 28
+    },
+    {
         "description": "melee_e_xbow_vs_a_firethrower",
         "address": "0x750de0",
         "size": 4,
@@ -756,6 +792,18 @@
         "value": 60
     },
     {
+        "description": "cost_pitchrig",
+        "address": "0x1c2248",
+        "size": 4,
+        "value": [
+            10,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
         "description": "cost_blacksmith",
         "address": "0x1c22d4",
         "size": 4,
@@ -797,7 +845,7 @@
         "size": 4,
         "value": [
             5,
-            10,
+            5,
             0,
             0,
             200
@@ -809,7 +857,7 @@
         "size": 4,
         "value": [
             10,
-            20,
+            10,
             0,
             0,
             450
@@ -820,11 +868,11 @@
         "address": "0x1c24c8",
         "size": 4,
         "value": [
+            10,
             20,
-            30,
             0,
             0,
-            900
+            850
         ]
     },
     {
@@ -844,7 +892,7 @@
         "address": "0x1c2810",
         "size": 4,
         "value": [
-            10,
+            8,
             10,
             0,
             0,
@@ -867,18 +915,18 @@
         "description": "a_archer",
         "address": "0x74ec08",
         "size": 4,
-        "value": 13000
+        "value": 14000
     },
     {
         "description": "cost_s_batteringram",
-        "address": "0x1c2868",
+        "address": "0x1c284c",
         "size": 4,
         "value": [
-            10,
+            16,
             0,
             0,
             0,
-            200
+            120
         ]
     },
     {
@@ -901,10 +949,10 @@
     },
     {
         "description": "cost_s_siegetower",
-        "address": "0x1c284c",
+        "address": "0x1c2838",
         "size": 4,
         "value": [
-            30,
+            32,
             0,
             0,
             0,
@@ -916,7 +964,7 @@
         "address": "0x1c2860",
         "size": 4,
         "value": [
-            5,
+            4,
             0,
             0,
             0,
@@ -928,11 +976,35 @@
         "address": "0x1c2608",
         "size": 4,
         "value": [
-            10,
+            8,
             0,
             0,
             5,
             120
+        ]
+    },
+    {
+        "description": "cost_s_mangonel",
+        "address": "0x1c2888",
+        "size": 4,
+        "value": [
+            8,
+            10,
+            0,
+            0,
+            40
+        ]
+    },
+    {
+        "description": "cost_s_balista",
+        "address": "0x1c289c",
+        "size": 4,
+        "value": [
+            8,
+            0,
+            0,
+            0,
+            70
         ]
     },
     {
@@ -964,6 +1036,12 @@
         "address": "0x74ebe0",
         "size": 4,
         "value": 16000
+    },
+    {
+        "description": "tunneler",
+        "address": "0x74eb04",
+        "size": 4,
+        "value": 15000
     },
     {
         "description": "melee_woodcutter_vs_s_shield",
@@ -1137,139 +1215,139 @@
         "description": "melee_e_knight_vs_peasant",
         "address": "0x7512f4",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_burningman",
         "address": "0x7512f8",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_woodcutter",
         "address": "0x7512fc",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_fletcher",
         "address": "0x751300",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_tunneler",
         "address": "0x751304",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_hunter",
         "address": "0x751308",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_quarry_mason",
         "address": "0x75130c",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_quarry_grunt",
         "address": "0x751310",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_quarry_ox",
         "address": "0x751314",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_pitchman",
         "address": "0x751318",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_farmer_wheat",
         "address": "0x75131c",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_farmer_hops",
         "address": "0x751320",
         "size": 4,
-        "value": 86
+        "value": 88
     },
     {
         "description": "melee_e_knight_vs_farmer_apples",
         "address": "0x751324",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_farmer_cattle",
         "address": "0x751328",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_miller",
         "address": "0x75132c",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_baker",
         "address": "0x751330",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_brewer",
         "address": "0x751334",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_poleturner",
         "address": "0x751338",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_blacksmith",
         "address": "0x75133c",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_armourer",
         "address": "0x751340",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_tanner",
         "address": "0x751344",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_e_archer",
         "address": "0x751348",
         "size": 4,
-        "value": 86
+        "value": 95
     },
     {
         "description": "melee_e_knight_vs_e_xbow",
         "address": "0x75134c",
         "size": 4,
-        "value": 86
+        "value": 95
     },
     {
         "description": "melee_e_knight_vs_e_spear",
@@ -1287,13 +1365,13 @@
         "description": "melee_e_knight_vs_e_mace",
         "address": "0x751358",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_e_sword",
         "address": "0x75135c",
         "size": 4,
-        "value": 57
+        "value": 59
     },
     {
         "description": "melee_e_knight_vs_e_knight",
@@ -1305,67 +1383,67 @@
         "description": "melee_e_knight_vs_e_ladder",
         "address": "0x751364",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_e_engineer",
         "address": "0x751368",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_miner1",
         "address": "0x75136c",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_miner2",
         "address": "0x751370",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_priest",
         "address": "0x751374",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_healer",
         "address": "0x751378",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_drunkard",
         "address": "0x75137c",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_innkeeper",
         "address": "0x751380",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_e_monk",
         "address": "0x751384",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_???1",
         "address": "0x751388",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_s_catapult",
         "address": "0x75138c",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_s_trebuchet",
@@ -1383,7 +1461,7 @@
         "description": "s_batteringram",
         "address": "0x74ebdc",
         "size": 4,
-        "value": 200000
+        "value": 170000
     },
     {
         "description": "s_fballista",
@@ -1395,55 +1473,55 @@
         "description": "melee_e_knight_vs_s_mangonel",
         "address": "0x751394",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_trader",
         "address": "0x751398",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_trader_horse",
         "address": "0x75139c",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_deer",
         "address": "0x7513a0",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_lion",
         "address": "0x7513a4",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_rabbit",
         "address": "0x7513a8",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_camel",
         "address": "0x7513ac",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_crow",
         "address": "0x7513b0",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_seagull",
         "address": "0x7513b4",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_siegetent",
@@ -1455,19 +1533,19 @@
         "description": "melee_e_knight_vs_cow",
         "address": "0x7513bc",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_dog",
         "address": "0x7513c0",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_fireman",
         "address": "0x7513c4",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_ghost",
@@ -1479,73 +1557,73 @@
         "description": "melee_e_knight_vs_lord",
         "address": "0x7513cc",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_lady",
         "address": "0x7513d0",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_chester",
         "address": "0x7513d4",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_s_tower",
         "address": "0x7513d8",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_s_batteringram",
         "address": "0x7513dc",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_s_ballista",
         "address": "0x7513e4",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_chicken",
         "address": "0x7513e8",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_mother",
         "address": "0x7513ec",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_child",
         "address": "0x7513f0",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_juggler",
         "address": "0x7513f4",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_fireeater",
         "address": "0x7513f8",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_dog",
         "address": "0x7513fc",
         "size": 4,
-        "value": 86
+        "value": 90
     },
     {
         "description": "melee_e_knight_vs_???2",
@@ -1563,7 +1641,7 @@
         "description": "melee_e_knight_vs_a_archer",
         "address": "0x751408",
         "size": 4,
-        "value": 86
+        "value": 95
     },
     {
         "description": "melee_e_knight_vs_a_slave",
@@ -1575,19 +1653,19 @@
         "description": "melee_e_knight_vs_a_slinger",
         "address": "0x751410",
         "size": 4,
-        "value": 125
+        "value": 135
     },
     {
         "description": "melee_e_knight_vs_a_assassin",
         "address": "0x751414",
         "size": 4,
-        "value": 86
+        "value": 92
     },
     {
         "description": "melee_e_knight_vs_a_harcher",
         "address": "0x751418",
         "size": 4,
-        "value": 90
+        "value": 95
     },
     {
         "description": "melee_e_knight_vs_a_sword",
@@ -1599,6 +1677,6 @@
         "description": "melee_e_knight_vs_s_fballista",
         "address": "0x751424",
         "size": 4,
-        "value": 86
+        "value": 90
     }
 ]
