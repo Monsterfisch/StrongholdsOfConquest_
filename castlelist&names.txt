@@ -59,27 +59,27 @@ Qalaat-Ollaiqa 					| Nizar8
 	
 Paris			 			| phillip1
 Carcassonne					| phillip2
-chateau de foix					| phillip3
-Fort de Bellegarde				| phillip4
+chateau de Foix					| phillip3
+Nantes						| phillip4
 Alcázar castle (segovia)			| phillip5
 Château de Sully-sur-Loire			| phillip6
-castle vitre					| phillip7
+castle Vitre					| phillip7
 Orléans						| phillip8
 
-liechtenstein 					| pig1
-sooneck	 					| pig2
-stahleck 					| pig3
+Liechtenstein 					| pig1
+Sooneck	 					| pig2
+Stahleck 					| pig3
 Larochette Castle				| pig4
 castle Thurant 					| pig5
 Marksburg	 				| pig6
-hunyad castle					| pig7
-burg Grenzau					| pig8
+Hunyad castle					| pig7
+Manderscheid castle				| pig8
 
 Castle of Penedono				| rat1
 Rochester Castle 				| rat2
 Castle of Guimarães 				| rat3
 Orford Castle					| rat4
-sortelha castle 				| rat5
+Sortelha castle 				| rat5
 Broch of Howe					| rat6
 Falkenstein	austria				| rat7
 Tremona-Castello				| rat8
@@ -89,7 +89,7 @@ Trifels 					| Richard2
 Bonaguil Castle 				| Richard3
 Chinon castle 					| Richard4
 château de Blanquefort				| Richard5
-Castle of Santa Maria da Feira			| Richard6
+castle of Santa Maria da Feira			| Richard6
 Château de Pierrefonds				| Richard7
 Hohenzollern					| Richard8
 
@@ -100,19 +100,19 @@ Constantinople				 	| saladin4
 Antioch						| saladin5
 Akkon						| saladin6
 Alexandria					| saladin7
-Cairo						| saladin8
+~~Cairo						| saladin8
 
-crowny 						| sherif1
+Crowny 						| sherif1
 nottingham					| sherif2
 London						| sherif3
 Caernarfon					| sherif4
 Villerouge-Termenes				| sherif5
-pembroke castle					| sherif6
-burghausen					| sherif7
-hohensalzburg					| sherif8
+Pembroke castle					| sherif6
+Burghausen					| sherif7
+Hohensalzburg					| sherif8
 
-~~ motte and baily 				| snake1
-gatersleben 					| snake2
+Beauford (Luxembourg)				| snake1
+Gatersleben 					| snake2
 Marienburg	 				| snake3
 Bodiam Castle					| snake4
 Ewloe castle					| snake5
@@ -120,7 +120,7 @@ Sommerau castle 				| snake6
 Caerlaverock Castle				| snake7
 Raglan castle					| snake8
 
-Khan al-Sultan					| Sultan1
+Sanatın Yolculuğu Tuzhisar Sultan Hanı					| Sultan1
 Masjid al-Sultan Barquq				| Sultan2
 Madrasa Sultan Hassan				| Sultan3
 Sultan al-Mansur Qalawun			| Sultan4
@@ -143,6 +143,6 @@ Harlech	 					| wolf2
 Belvoir [Israel]				| wolf3
 real de manzanares				| wolf4
 castillo de la mota 				| wolf5
-hohkönigsburg					| wolf6
+hochkönigsburg					| wolf6
 krak des chevalier				| wolf7
 caerphilly					| wolf8

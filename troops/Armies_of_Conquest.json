@@ -25,7 +25,7 @@
     },
     "deathmatch": {
       "Units": [ "Spearman" ],
-      "Counts": [ 12 ]
+      "Counts": [ 22 ]
     }
   },
   "2": {
@@ -58,16 +58,16 @@
       "Type": "Europ"
     },
     "normal": {
-      "Units": [ "Maceman" ],
-      "Counts": [ 12 ]
+      "Units": [ "Crossbowman", "Maceman" ],
+      "Counts": [ 5, 15 ]
     },
     "crusader": {
       "Units": [ "Crossbowman", "Maceman" ],
-      "Counts": [ 20, 40 ]
+      "Counts": [ 25, 40 ]
     },
     "deathmatch": {
-      "Units": [ "Maceman" ],
-      "Counts": [ 12 ]
+      "Units": [ "Crossbowman", "Maceman" ],
+      "Counts": [ 5, 15 ]
     }
   },
   "4": {
@@ -79,16 +79,16 @@
       "Type": "Europ"
     },
     "normal": {
-      "Units": [ "Swordsman", "Crossbowman" ],
-      "Counts": [ 4, 8 ]
+      "Units": [ "Swordsman", "Crossbowman", "EuropArcher" ],
+      "Counts": [ 3, 5, 10 ]
     },
     "crusader": {
       "Units": [ "Swordsman", "Crossbowman", "Pikeman", "EuropArcher" ],
       "Counts": [ 10, 10, 6, 20 ]
     },
     "deathmatch": {
-      "Units": [ "Swordsman", "Crossbowman" ],
-      "Counts": [ 4, 8 ]
+      "Units": [ "Swordsman", "Crossbowman", "EuropArcher" ],
+      "Counts": [ 3, 5, 10 ]
     }
   },
   "5": {
@@ -101,7 +101,7 @@
     },
     "normal": {
       "Units": [ "ArabSwordsman", "ArabArcher" ],
-      "Counts": [ 4, 15 ]
+      "Counts": [ 4, 25 ]
     },
     "crusader": {
       "Units": [ "ArabSwordsman", "ArabArcher" ],
@@ -109,7 +109,7 @@
     },
     "deathmatch": {
       "Units": [ "ArabSwordsman", "ArabArcher" ],
-      "Counts": [ 4, 15 ]
+      "Counts": [ 4, 25 ]
     }
   },
   "6": {
@@ -122,7 +122,7 @@
     },
     "normal": {
       "Units": [ "ArabSwordsman", "ArabArcher", "FireThrower" ],
-      "Counts": [ 3, 6, 3 ]
+      "Counts": [ 3, 10, 2 ]
     },
     "crusader": {
       "Units": [ "ArabArcher" ],
@@ -130,7 +130,7 @@
     },
     "deathmatch": {
       "Units": [ "ArabSwordsman", "ArabArcher", "FireThrower" ],
-      "Counts": [ 3, 6, 3 ]
+      "Counts": [ 3, 10, 2 ]
     }
   },
   "7": {
@@ -143,7 +143,7 @@
     },
     "normal": {
       "Units": [ "FireThrower", "Slinger" ],
-      "Counts": [ 4, 8 ]
+      "Counts": [ 4, 18 ]
     },
     "crusader": {
       "Units": [ "Slinger", "ArabSwordsman" ],
@@ -151,7 +151,7 @@
     },
     "deathmatch": {
       "Units": [ "FireThrower", "Slinger" ],
-      "Counts": [ 4, 8 ]
+      "Counts": [ 4, 18 ]
     }
   },
   "8": {
@@ -164,7 +164,7 @@
     },
     "normal": {
       "Units": [ "Swordsman", "EuropArcher" ],
-      "Counts": [ 6, 6 ]
+      "Counts": [ 12, 6 ]
     },
     "crusader": {
       "Units": [ "Swordsman", "EuropArcher", "Knight" ],
@@ -172,7 +172,7 @@
     },
     "deathmatch": {
       "Units": [ "Swordsman", "EuropArcher" ],
-      "Counts": [ 6, 6 ]
+      "Counts": [ 12, 6 ]
     }
   },
   "9": {
@@ -205,16 +205,16 @@
       "Type": "Europ"
     },
     "normal": {
-      "Units": [ "Knight", "EuropArcher" ],
-      "Counts": [ 4, 8 ]
+      "Units": [ "Knight", "EuropArcher", "Monk" ],
+      "Counts": [ 4, 10, 6 ]
     },
     "crusader": {
       "Units": [ "Knight", "EuropArcher" ],
       "Counts": [ 20, 30 ]
     },
     "deathmatch": {
-      "Units": [ "Knight", "EuropArcher" ],
-      "Counts": [ 4, 8 ]
+      "Units": [ "Knight", "EuropArcher", "Monk" ],
+      "Counts": [ 4, 10, 6 ]
     }
   },
   "11": {
@@ -227,7 +227,7 @@
     },
     "normal": {
       "Units": [ "FireThrower", "ArabArcher", "HorseArcher" ],
-      "Counts": [ 2, 8, 4 ]
+      "Counts": [ 2, 6, 6 ]
     },
     "crusader": {
       "Units": [ "FireThrower", "ArabArcher", "ArabSwordsman", "HorseArcher" ],
@@ -235,7 +235,7 @@
     },
     "deathmatch": {
       "Units": [ "FireThrower", "ArabArcher", "HorseArcher" ],
-      "Counts": [ 2, 10, 6 ]
+      "Counts": [ 2, 6, 6 ]
     }
   },
   "12": {
@@ -248,7 +248,7 @@
     },
     "normal": {
       "Units": [ "ArabSwordsman", "HorseArcher" ],
-      "Counts": [ 2, 10 ]
+      "Counts": [ 3, 10 ]
     },
     "crusader": {
       "Units": [ "ArabSwordsman", "HorseArcher" ],
@@ -256,7 +256,7 @@
     },
     "deathmatch": {
       "Units": [ "ArabSwordsman", "HorseArcher" ],
-      "Counts": [ 2, 10 ]
+      "Counts": [ 3, 10 ]
     }
   },
   "13": {
@@ -269,7 +269,7 @@
     },
     "normal": {
       "Units": [ "Assassin", "ArabArcher" ],
-      "Counts": [ 4, 8 ]
+      "Counts": [ 4, 18 ]
     },
     "crusader": {
       "Units": [ "Assassin", "ArabArcher" ],
@@ -277,7 +277,7 @@
     },
     "deathmatch": {
       "Units": [ "Assassin", "ArabArcher" ],
-      "Counts": [ 4, 8 ]
+      "Counts": [ 4, 18 ]
     }
   },
   "14": {
@@ -290,7 +290,7 @@
     },
     "normal": {
       "Units": [ "FireThrower", "Crossbowman", "Maceman" ],
-      "Counts": [ 2, 4, 6 ]
+      "Counts": [ 2, 4, 8 ]
     },
     "crusader": {
       "Units": [ "FireThrower", "Crossbowman", "Maceman" ],
@@ -298,7 +298,7 @@
     },
     "deathmatch": {
       "Units": [ "FireThrower", "Crossbowman", "Maceman" ],
-      "Counts": [ 2, 4, 6 ]
+      "Counts": [ 2, 4, 8 ]
     }
   },
   "15": {
@@ -310,16 +310,16 @@
       "Type": "Europ"
     },
     "normal": {
-      "Units": [ "Knight", "EuropArcher" ],
-      "Counts": [ 6, 8 ]
+      "Units": [ "Knight", "EuropArcher","Spearman" ],
+      "Counts": [ 6, 18, 2 ]
     },
     "crusader": {
-      "Units": [ "Knight", "EuropArcher" ],
-      "Counts": [ 20, 50 ]
+      "Units": [ "Knight", "EuropArcher","Spearman" ],
+      "Counts": [ 20, 60, 4 ]
     },
     "deathmatch": {
-      "Units": [ "Knight", "EuropArcher" ],
-      "Counts": [ 6, 8 ]
+      "Units": [ "Knight", "EuropArcher","Spearman" ],
+      "Counts": [ 6, 18, 2 ]
     }
   },
   "16": {
@@ -331,16 +331,16 @@
       "Type": "Europ"
     },
     "normal": {
-      "Units": [ "Monk" ],
-      "Counts": [ 12 ]
+      "Units": [ "Monk", "EuropArcher" ],
+      "Counts": [ 12, 7 ]
     },
     "crusader": {
-      "Units": [ "Monk" ],
-      "Counts": [ 100 ]
+      "Units": [ "Monk", "EuropArcher" ],
+      "Counts": [ 100, 40 ]
     },
     "deathmatch": {
-      "Units": [ "Monk" ],
-      "Counts": [ 12 ]
+      "Units": [ "Monk", "EuropArcher" ],
+      "Counts": [ 12, 7 ]
     }
   },
   "17": {
