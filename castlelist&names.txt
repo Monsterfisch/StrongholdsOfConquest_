@@ -24,8 +24,8 @@ Bagdad						| caliph8
 Tartous  					| Emir1		
 Alhambra	 				| Emir2
 Jaffa						| Emir3
-Rafiqa/Ar-Raqqah				| Emir4
-Bosra 						| Emir5		
+Bosra 						| Emir4
+Rafiqa/Ar-Raqqah				| Emir5		
 Diyarbakir					| Emir6
 Nicaea 			 			| Emir7		
 Damascus					| Emir8
@@ -120,14 +120,14 @@ Sommerau castle 				| snake6
 Caerlaverock Castle				| snake7
 Raglan castle					| snake8
 
-Sanatın Yolculuğu Tuzhisar Sultan Hanı					| Sultan1
-Masjid al-Sultan Barquq				| Sultan2
-Madrasa Sultan Hassan				| Sultan3
-Sultan al-Mansur Qalawun			| Sultan4
-Khirbat al-Mafjar				| Sultan5
-Saragossa					| Sultan6
-Royal Palace of Mari 				| Sultan7
-Qansuh al-Ghuri Complex				| Sultan8
+The Sultan Han caravanserai 			| Sultan1
+ribat-i sharaf caravanserai			| Sultan2
+amin abad caravanserai				| Sultan3
+Ghanli Bolagh Caravanserai			| Sultan4
+Passagan Caravanserai				| Sultan5
+Khushkava caravanserai				| Sultan6
+Royal Palace of Mari 	~~			| Sultan7
+Qansuh al-Ghuri Complex	~~			| Sultan8
 
 castle at eš-Šeqîf				| wazir1
 citadel of amman				| wazir2

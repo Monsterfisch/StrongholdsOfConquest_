@@ -1,0 +1,151 @@
+
+StrongholdsOfConquest Castle list (not in order)
+
+
+chillion 					| frederik1
+castle del monte			| frederik2
+Castle Cochem				| frederik3
+castle Gravensteen			| frederik4
+castle goodrich				| frederik5
+castle rheinfels			| frederik6
+Malbork castle				| frederik7
+Leeds Castle				| frederik8
+
+crowny 						| sherif1
+nottingham					| sherif2
+London						| sherif3
+Caernarfon					| sherif4
+Villerouge-Termenes			| sherif5
+pembroke castle				| sherif6
+burghausen					| sherif7
+hohensalzburg				| sherif8
+
+kreuzenstein 				| marshal1
+Wartburg					| marshal2
+Siege encampment			| marshal3
+Eltz castle 				| marshal4
+Fleckenstein 				| marshal5
+Beseno castle 				| marshal6
+castle y bere				| marshal7
+Vianden Castle				| marshal8
+
+liechtenstein 				| pig1
+sooneck	 					| pig2
+stahleck 					| pig3
+Falkenstein	austria			| pig4
+castle Thurant 				| pig5
+Marksburg	 				| pig6
+hunyad castle				| pig7
+burg Grenzau				| pig8
+
+
+Beaumaris 					| wolf1
+Harlech 					| wolf2
+Belvoir [Israel]			| wolf3
+real de manzanares			| wolf4
+castillo de la mota 		| wolf5
+hohkönigsburg				| wolf6
+krak des chevalier			| wolf7
+caerphilly					| wolf8
+
+
+motte baily 				| snake1
+gatersleben 				| snake2
+Marienburg	 				| snake3
+Zilly castle 				| snake4
+Ewloe castle				| snake5
+Sommerau castle 			| snake6
+Caerlaverock Castle			| snake7
+Raglan castle				| snake8
+
+
+village 					| rat1
+village 					| rat2
+village 					| rat3
+village 					| rat4
+village 					| rat5
+village 					| rat6
+village						| rat7
+Tremona-Castello			| rat8
+
+gaillard 					| Richard1
+Trifels 					| Richard2
+Bonaguil Castle 			| Richard3
+Chinon castle 				| Richard4
+château de Blanquefort		| Richard5
+castle rheinstein			| Richard6
+Château de Pierrefonds		| Richard7
+Hohenzollern				| Richard8
+
+Vatican						| Abbot1
+kloster falkenau			| Abbot2
+mount le michael 			| Abbot3
+Chanteuges		 			| Abbot4
+Haghpat Monastery 			| Abbot5
+Axente Sever				| Abbot6
+Großcomburg 	 			| Abbot7
+kloster maulbronn 			| Abbot8
+
+Paris			 			| phillip1
+Carcassonne					| phillip2
+chateau de foix				| phillip3
+starfort 					| phillip4
+Alcázar castle (segovia)	| phillip5
+Château de Sully-sur-Loire	| phillip6
+castle vitre				| phillip7
+Orléans						| phillip8
+
+Qasr Burqu'		 			| caliph1
+Qasr al-Hayr al-Sharqi		| caliph2
+Qasr Azraq					| caliph3
+Qasr al-Kharana				| caliph4
+Al-Ashiq					| caliph5
+Qasr Tuba					| caliph6
+Resafa						| caliph7
+Bagdad						| caliph8
+
+Tartous  					| Emir1		
+Alhambra	 				| Emir2
+Jaffa						| Emir3
+Rafiqa/Ar-Raqqah			| Emir4
+Bosra 						| Emir5		
+Diyarbakir					| Emir6
+Nicaea 			 			| Emir7		
+Damascus					| Emir8
+
+masyaf Castle		 		| Nizar1
+Alamut						| Nizar2
+Qalaat al-Khawabi			| Nizar3
+cadmus						| Nizar4
+al maniqa					| Nizar5
+abu qubays					| Nizar1
+kahf			 			| Nizar7	
+Qalaat-Ollaiqa 				| Nizar8
+
+Qal'at Salah El-Din			| saladin1
+Jerusalem	 				| saladin2
+Aleppo		 				| saladin3
+Konstantinopel			 	| saladin4
+Antioch						| saladin5
+Akkon						| saladin6
+Alexandria					| saladin7
+cairo						| saladin8
+
+Khan al-Sultan				| Sultan1
+Masjid al-Sultan Barquq		| Sultan2
+Madrasa Sultan Hassan		| Sultan3
+Sultan al-Mansur Qalawun	| Sultan4
+Khirbat al-Mafjar			| Sultan5
+Saragossa					| Sultan6
+Royal Palace of Mari 		| Sultan7
+Qansuh al-Ghuri Complex		| Sultan8
+
+OR Qal'at eš-Šeqîf			| wazir1
+citadel of amman			| wazir2
+margat						| wazir3
+kerak castle				| wazir4
+Ajloun castle				| wazir5
+castle of Palmyra			| wazir6
+[[Qal'at Najm]]				| wazir7
+[[Qal'at Doubiyé]]			| wazir8
+
