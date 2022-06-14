@@ -100,7 +100,7 @@ Constantinople				 	| saladin4
 Antioch						| saladin5
 Akkon						| saladin6
 Alexandria					| saladin7
-~~Cairo						| saladin8
+Cairo						| saladin8
 
 Crowny 						| sherif1
 nottingham					| sherif2
@@ -126,7 +126,7 @@ amin abad caravanserai				| Sultan3
 Ghanli Bolagh Caravanserai			| Sultan4
 Passagan Caravanserai				| Sultan5
 Khushkava caravanserai				| Sultan6
-Royal Palace of Mari 	~~			| Sultan7
+Ağzikara Han caravanserai			| Sultan7
 Qansuh al-Ghuri Complex	~~			| Sultan8
 
 castle at eš-Šeqîf				| wazir1
