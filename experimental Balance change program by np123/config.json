@@ -136,12 +136,18 @@
         "address": "0x74efe4",
         "size": 4,
         "value": 500
-    }, 
+    },
+    {
+        "description": "sell_wood",
+        "address": "0x2173c0",
+        "size": 4,
+        "value": 10
+    },
     {
         "description": "sell_stone",
         "address": "0x2173c8",
         "size": 4,
-        "value": 35
+        "value": 25
     },  
     {
         "description": "buy_stone",
@@ -159,7 +165,7 @@
         "description": "buy_pitch",
         "address": "0x21736c",
         "size": 4,
-        "value": 115
+        "value": 135
     },
     {
         "description": "tower_one",
@@ -189,7 +195,7 @@
         "description": "e_engineer",
         "address": "0x74eb68",
         "size": 4,
-        "value": 7000
+        "value": 10000
     },
     {
         "description": "buy_iron",
@@ -207,25 +213,25 @@
         "description": "sell_beer",
         "address": "0x2173f0",
         "size": 4,
-        "value": 75
+        "value": 125
     },
     {
         "description": "buy_beer",
         "address": "0x217388",
         "size": 4,
-        "value": 150
+        "value": 250
     },
     {
         "description": "sell_hop",
         "address": "0x2173c4",
         "size": 4,
-        "value": 80
+        "value": 75
     },
     {
         "description": "buy_hop",
         "address": "0x21735c",
         "size": 4,
-        "value": 115
+        "value": 150
     },
     {
         "description": "buy_bread",
@@ -237,7 +243,7 @@
         "description": "buy_cheese",
         "address": "0x21737c",
         "size": 4,
-        "value": 50
+        "value": 60
     },
     {
         "description": "buy_meat",
@@ -249,7 +255,7 @@
         "description": "buy_fruit",
         "address": "0x217384",
         "size": 4,
-        "value": 36
+        "value": 28
     },
     {
         "description": "sell_bread",
@@ -400,12 +406,6 @@
         "address": "0x74edc8",
         "size": 4,
         "value": 1200
-    },
-    {
-        "description": "xbow_dmga_sword",
-        "address": "0x74efdc",
-        "size": 4,
-        "value": 9600
     },
     {
         "description": "arrow_dmga_harcher",
@@ -1029,7 +1029,7 @@
         "description": "tunneler",
         "address": "0x74eb04",
         "size": 4,
-        "value": 15000
+        "value": 22000
     },
     {
         "description": "melee_woodcutter_vs_s_shield",
@@ -1683,7 +1683,7 @@
         "description": "xbow_dmge_xbow",
         "address": "0x74ef0c",
         "size": 4,
-        "value": 3800
+        "value": 2800
     },
     {
         "description": "xbow_dmge_spear",
@@ -1701,7 +1701,7 @@
         "description": "xbow_dmge_mace",
         "address": "0x74ef18",
         "size": 4,
-        "value": 4000
+        "value": 2500
     },
     {
         "description": "xbow_dmge_sword",
@@ -1803,7 +1803,7 @@
         "description": "xbow_dmga_sword",
         "address": "0x74efdc",
         "size": 4,
-        "value": 3500
+        "value": 4700
     },
     {
         "description": "xbow_dmgs_fballista",
