@@ -104,9 +104,9 @@ Castle of Doubiyeh				| wazir8
 
 Tartous  						| Emir1		
 Alhambra	~~ 					| Emir2
-Jaffa							| Emir3
+Rafiqa/Ar-Raqqah				| Emir3
 Bosra 							| Emir4
-Rafiqa/Ar-Raqqah				| Emir5		
+Jaffa						 	| Emir5		
 Diyarbakir						| Emir6
 Nicaea 		~~	 				| Emir7		
 Damascus						| Emir8
@@ -140,10 +140,10 @@ Vianden Castle					| marshal8
 
 Vatican							| Abbot1
 Monestary Falkenau				| Abbot2
-Mount le michael 	~~			| Abbot3
+Mount le michael				| Abbot3
 Chanteuges		 				| Abbot4
-Haghpat Monastery 				| Abbot5
-Axente Sever					| Abbot6
+Viscri fortified church			| Abbot5
+Axente Sever		~~			| Abbot6
 Großcomburg 	 				| Abbot7
-Monastery Maulbronn 			| Abbot8
+Monastery Maulbronn 	~~		| Abbot8
 
