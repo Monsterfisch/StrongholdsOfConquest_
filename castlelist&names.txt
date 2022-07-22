@@ -45,7 +45,7 @@ Aleppo		 					| saladin3
 Constantinople	~~			 	| saladin4
 Antioch							| saladin5
 Akkon							| saladin6
-Alexandria						| saladin7
+Alexandria	~~					| saladin7
 Cairo							| saladin8
 
 Qasr Burqu'		 				| caliph1
@@ -86,15 +86,15 @@ Leeds castle					| frederik8
 	
 Paris			 				| phillip1
 Carcassonne						| phillip2
-Chateau de Foix	~~				| phillip3
+Chateau de Foix					| phillip3
 Nantes							| phillip4
 Alcázar castle (segovia)		| phillip5
 Château de Sully-sur-Loire		| phillip6
 Castle Vitre					| phillip7
-Orléans			~~				| phillip8
+Orléans							| phillip8
 
-Castle at eš-Šeqîf				| wazir1
-Citadel of amman				| wazir2
+Castle at eš-Šeqîf	 			| wazir1
+Citadel of amman	~~			| wazir2
 Margat							| wazir3
 Kerak castle					| wazir4
 Ajloun castle					| wazir5
@@ -138,12 +138,12 @@ Beseno castle 					| marshal6
 Castle y bere					| marshal7
 Vianden Castle					| marshal8
 
-Vatican		~~					| Abbot1
+Vatican							| Abbot1
 Monestary Falkenau				| Abbot2
 Mount le michael				| Abbot3
 Chanteuges		 				| Abbot4
 Viscri fortified church			| Abbot5
 church Großau					| Abbot6
 Großcomburg 	 				| Abbot7
-Monastery Maulbronn 	~~		| Abbot8
+Monastery Maulbronn 			| Abbot8
 
