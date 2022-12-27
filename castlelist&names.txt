@@ -3,6 +3,8 @@ StrongholdsOfConquest Castle list
 
 castles marked with ~~ will likely get a rework/update
 
+bread eco castle buildorder remodel
+
 Castle of Penedono				| rat1
 Rochester Castle 				| rat2
 Castle of Guimarães 			| rat3
@@ -15,7 +17,7 @@ Tremona-Castello				| rat8
 Beauford (Luxembourg)			| snake1
 Gatersleben 					| snake2
 Alūksne castle	 				| snake3
-Bodiam Castle					| snake4
+Bodiam Castle					| snake4 buildorder
 Ewloe castle					| snake5
 Sommerau castle 				| snake6
 Caerlaverock Castle				| snake7
@@ -31,7 +33,7 @@ Hunyad castle					| pig7
 Manderscheid castle				| pig8
 
 Beaumaris 						| wolf1
-Harlech	 		~~				| wolf2
+Harlech	 		 				| wolf2
 Belvoir [Israel]				| wolf3
 Castillo de la coca				| wolf4
 Castillo de la mota 			| wolf5
@@ -42,10 +44,10 @@ Caerphilly						| wolf8
 Qal'at Salah El-Din				| saladin1
 Jerusalem	 					| saladin2
 Aleppo		 					| saladin3
-Constantinople	~~			 	| saladin4
+Constantinople 				 	| saladin4
 Antioch							| saladin5
 Akkon							| saladin6
-Alexandria	~~					| saladin7
+Alexandria	 					| saladin7
 Cairo							| saladin8
 
 Qasr Burqu'		 				| caliph1
@@ -58,15 +60,15 @@ Resafa							| caliph7
 Bagdad							| caliph8
 
 The Sultan Han caravanserai 	| Sultan1
-Ribat-i sharaf caravanserai		| Sultan2
+Ribat-i sharaf caravanserai		| Sultan2 x
 Amin abad caravanserai			| Sultan3
 Ghanli Bolagh Caravanserai		| Sultan4
-Passagan Caravanserai			| Sultan5
+Passagan Caravanserai			| Sultan5 xx
 Khushkava caravanserai			| Sultan6
 Ağzikara Han caravanserai		| Sultan7
 Sadeddin Han caravanserai		| Sultan8
 
-Château Gaillard				| Richard1
+Château Gaillard				| Richard1 negative fearfactor intead 
 Trifels 						| Richard2
 Bonaguil Castle 				| Richard3
 Chinon castle 					| Richard4
@@ -77,8 +79,8 @@ Goodrich castle 	 			| Richard8
 
 Chillion 						| frederik1
 Castle del monte				| frederik2
-Trakai Castle					| frederik3
-Castle Gravensteen		~~		| frederik4
+Trakai Castle 					| frederik3
+Castle Gravensteen				| frederik4
 Castle Hohenzollern				| frederik5
 Castle rheinfels				| frederik6
 Malbork castle					| frederik7
@@ -94,7 +96,7 @@ Castle Vitre					| phillip7
 Orléans							| phillip8
 
 Castle at eš-Šeqîf	 			| wazir1
-Citadel of amman	~~			| wazir2
+Citadel of amman				| wazir2
 Margat							| wazir3
 Kerak castle					| wazir4
 Ajloun castle					| wazir5
@@ -117,14 +119,14 @@ Qalaat al-Khawabi				| Nizar3
 Cadmus							| Nizar4
 Al Maniqa						| Nizar5
 Abu Qubays						| Nizar6
-Kahf			 				| Nizar7	
+Qalat al Kahf	 				| Nizar7	
 Qalaat-Ollaiqa 					| Nizar8
 
-Crowny 							| sherif1
+Conwy 							| sherif1
 Nottingham						| sherif2
 London							| sherif3
-Caernarfon						| sherif4
-Villerouge-Termenes				| sherif5
+Caernarfon				~~		| sherif4
+Villerouge-Termenes		 		| sherif5
 Pembroke castle					| sherif6
 Burghausen						| sherif7
 Hohensalzburg					| sherif8
