@@ -1,0 +1,88 @@
+﻿{
+	"description": {
+		"English"	: "Those who are hard as steel start with less, because that only makes victory all the sweeter",
+		"German"	: "Wer hart wie Stahl ist, fängt mit weniger an, denn das macht den Sieg nur umso süßer",
+		"Russian"	: "Те, кто твёрдый, как сталь, начинают с меньшего, потому что это только делает победу слаще.",
+		"Polish"	: "Ci, którzy są twardzi jak stal, zaczynają od mniej, bo to tylko sprawia, że zwycięstwo jest jeszcze słodsze.",
+		"Chinese"	: "坚如钢铁的人，一开始就会少拿点钱，因为那只会让胜利更加甜蜜",
+		"Hungarian"	: ""
+	},
+	"normal": {
+		"gold": {
+			"human": [4000, 2000, 1000, 1000, 500],
+			"ai": [2000, 2000, 2000, 4000, 8000]
+		},
+		"wood": 100,
+		"hop": 0,
+		"stone": 50,
+		"iron": 0,
+		"pitch": 0,
+		"wheat": 0,
+		"bread": 50,
+		"cheese": 0,
+		"meat": 0,
+		"fruit": 0,
+		"beer": 0,
+		"flour": 0,
+		"bows": 0,
+		"crossbows": 0,
+		"spears": 0,
+		"pikes": 0,
+		"maces": 0,
+		"swords": 0,
+		"leatherarmor": 0,
+		"metalarmor": 0
+	},
+	"crusader": {
+		"gold": {
+			"human": [4000, 3000, 1000, 500, 100],
+			"ai": [400, 1000, 2000, 4000, 8000]
+		},
+		"wood": 50,
+		"hop": 0,
+		"stone": 10,
+		"iron": 0,
+		"pitch": 0,
+		"wheat": 0,
+		"bread": 30,
+		"cheese": 0,
+		"meat": 0,
+		"fruit": 0,
+		"beer": 0,
+		"flour": 0,
+		"bows": 0,
+		"crossbows": 0,
+		"spears": 0,
+		"pikes": 0,
+		"maces": 0,
+		"swords": 0,
+		"leatherarmor": 0,
+		"metalarmor": 0
+	},
+	"deathmatch": {
+		"gold": {
+			"human": [15000, 10000, 7000, 5000, 2000],
+			"ai": [3000, 7000, 10000, 20000, 40000]
+		},
+		"wood": 150,
+		"hop": 20,
+		"stone": 150,
+		"iron": 25,
+		"pitch": 48,
+		"wheat": 25,
+		"bread": 150,
+		"cheese": 0,
+		"meat": 0,
+		"fruit": 0,
+		"beer": 10,
+		"flour": 0,
+		"bows": 0,
+		"crossbows": 0,
+		"spears": 0,
+		"pikes": 0,
+		"maces": 0,
+		"swords": 0,
+		"leatherarmor": 0,
+		"metalarmor": 0
+	}
+}

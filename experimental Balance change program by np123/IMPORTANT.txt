@@ -1,3 +1,0 @@
-Locate the folder inside your game directory and run this after the Ucp Patch has been installed! otherwise the changes will be nullified
-
-Also keep in mind there might be some unintended results so always make a backup of your .EXE!
