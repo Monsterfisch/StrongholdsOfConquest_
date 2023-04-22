@@ -31,9 +31,9 @@
 {"description":"sell_pitch","address":"0x2173d4","size":4,"value":90},
 {"description":"buy_pitch","address":"0x21736c","size":4,"value":200},
 
-{"description":"buy_xbow","address":"0x217398","size":4,"value":280},
-{"description":"sell_xbow","address":"0x217400","size":4,"value":140},
-{"description":"buy_bow","address":"0x217394","size":4,"value":160},
+{"description":"buy_xbow","address":"0x217398","size":4,"value":255},
+{"description":"sell_xbow","address":"0x217400","size":4,"value":135},
+{"description":"buy_bow","address":"0x217394","size":4,"value":170},
 {"description":"sell_bow","address":"0x2173fc","size":4,"value":85},
 {"description":"buy_mace","address":"0x2173a4","size":4,"value":220},
 {"description":"sell_mace","address":"0x21740c","size":4,"value":120},
@@ -44,8 +44,8 @@
 
 {"description":"buy_armor","address":"0x2173b0","size":4,"value":340},
 {"description":"sell_armor","address":"0x217418","size":4,"value":170},
-{"description":"sell_leather","address":"0x217414","size":4,"value":60},
-{"description":"buy_leather","address":"0x2173ac","size":4,"value":70},
+{"description":"sell_leather","address":"0x217414","size":4,"value":70},
+{"description":"buy_leather","address":"0x2173ac","size":4,"value":90},
 
 
 
@@ -88,44 +88,66 @@
 
 
 
-{"description":"stone_dmge_mace","address":"0x74edd8","size":4,"value":700},
+{"description":"stone_dmge_mace","address":"0x74edd8","size":4,"value":1200},
 {"description":"stone_dmga_assassin","address":"0x74ee94","size":4,"value":1500},
 {"description":"stone_dmga_archer","address":"0x74ee88","size":4,"value":1390},
-{"description":"stone_dmge_pike","address":"0x74edd4","size":4,"value":370},
-{"description":"stone_dmge_sword","address":"0x74eddc","size":4,"value":80},
-{"description":"stone_dmge_knight","address":"0x74ede0","size":4,"value":130},
-{"description":"stone_dmge_archer","address":"0x74edc8","size":4,"value":1000},
-{"description":"stone_dmga_sword","address":"0x74ee9c","size":4,"value":280},
+{"description":"stone_dmge_pike","address":"0x74edd4","size":4,"value":350},
+{"description":"stone_dmge_sword","address":"0x74eddc","size":4,"value":200},
+{"description":"stone_dmge_knight","address":"0x74ede0","size":4,"value":200},
+{"description":"stone_dmge_archer","address":"0x74edc8","size":4,"value":1200},
+{"description":"stone_dmga_sword","address":"0x74ee9c","size":4,"value":350},
 {"description":"stone_dmga_slave","address":"0x74ee8c","size":4,"value":3000},
+{"description":"stone_dmge_xbow","address":"0x74edcc","size":4,"value":370},
+{"description":"stone_dmga_slinger","address":"0x74ee90","size":4,"value":1500},
+{"description":"stone_dmge_monk","address":"0x74ee04","size":4,"value":1000},
+{"description":"stone_dmga_harcher","address":"0x74ee98","size":4,"value":1500},
 
+
+
+
+{"description":"arrow_dmge_archer","address":"0x74ec88","size":4,"value":2400},
+{"description":"arrow_dmge_xbow","address":"0x74ec8c","size":4,"value":572},
+{"description":"arrow_dmga_slinger","address":"0x74ed50","size":4,"value":4400},
+{"description":"arrow_dmga_archer","address":"0x74ed48","size":4,"value":2000},
+{"description":"arrow_dmga_harcher","address":"0x74ed58","size":4,"value":5000},
+{"description":"arrow_dmga_firethrower","address":"0x74ed60","size":4,"value":750},
+
+{"description":"arrow_dmge_sword","address":"0x74ec9c","size":4,"value":300},
 {"description":"arrow_dmge_mace","address":"0x74ec98","size":4,"value":1000},
-{"description":"arrow_dmgs_tower","address":"0x74ed18","size":4,"value":2500},
-{"description":"arrow_dmge_sword","address":"0x74ec9c","size":4,"value":100},
-{"description":"arrow_dmge_knight","address":"0x74eca0","size":4,"value":160},
-{"description":"arrow_dmge_pike","address":"0x74ec94","size":4,"value":380},
-{"description":"arrow_dmga_sword","address":"0x74ed5c","size":4,"value":300},
-{"description":"arrow_dmge_xbow","address":"0x74ec8c","size":4,"value":800},
+{"description":"arrow_dmge_knight","address":"0x74eca0","size":4,"value":600},
+{"description":"arrow_dmge_pike","address":"0x74ec94","size":4,"value":1200},
 {"description":"arrow_dmga_slave","address":"0x74ed4c","size":4,"value":5000},
-{"description":"arrow_dmga_archer","address":"0x74ed48","size":4,"value":2200},
+{"description":"arrow_dmga_assassin","address":"0x74ed54","size":4,"value":2000},
+
+{"description":"arrow_dmga_sword","address":"0x74ed5c","size":4,"value":810},
+{"description":"arrow_dmgs_tower","address":"0x74ed18","size":4,"value":2500},
+{"description":"arrow_dmge_ladder","address":"0x74eca4","size":4,"value":1800},
+{"description":"arrow_dmgdog","address":"0x74ed3c","size":4,"value":1000},
 
 
-{"description":"xbow_dmge_archer","address":"0x74ef08","size":4,"value":4000},
-{"description":"xbow_dmge_xbow","address":"0x74ef0c","size":4,"value":2800},
+
+
+{"description":"xbow_dmge_archer","address":"0x74ef08","size":4,"value":4950},
+{"description":"xbow_dmge_xbow","address":"0x74ef0c","size":4,"value":2000},
+{"description":"xbow_dmga_slinger","address":"0x74efd0","size":4,"value":11000},
+{"description":"xbow_dmga_archer","address":"0x74efc8","size":4,"value":5300},
+{"description":"xbow_dmga_harcher","address":"0x74efd8","size":4,"value":2500},
+{"description":"xbow_dmga_firethrower","address":"0x74efe0","size":4,"value":2000},
+
 {"description":"xbow_dmge_spear","address":"0x74ef10","size":4,"value":6000},
-{"description":"xbow_dmge_pike","address":"0x74ef14","size":4,"value":7500},
-{"description":"xbow_dmge_mace","address":"0x74ef18","size":4,"value":2300},
-{"description":"xbow_dmge_sword","address":"0x74ef1c","size":4,"value":1500},
-{"description":"xbow_dmge_knight","address":"0x74ef20","size":4,"value":2450},
-{"description":"xbow_dmge_ladder","address":"0x74ef24","size":4,"value":520},
-{"description":"xbow_dmge_engineer","address":"0x74ef28","size":4,"value":3000},
-{"description":"xbow_dmge_monk","address":"0x74ef44","size":4,"value":5000},
-{"description":"xbow_dmga_archer","address":"0x74efc8","size":4,"value":4400},
-{"description":"xbow_dmga_slave","address":"0x74efcc","size":4,"value":5000},
-{"description":"xbow_dmga_slinger","address":"0x74efd0","size":4,"value":6000},
+{"description":"xbow_dmge_pike","address":"0x74ef14","size":4,"value":5800},
+{"description":"xbow_dmge_mace","address":"0x74ef18","size":4,"value":3100},
+{"description":"xbow_dmge_sword","address":"0x74ef1c","size":4,"value":1200},
+{"description":"xbow_dmge_knight","address":"0x74ef20","size":4,"value":1500},
 {"description":"xbow_dmga_assassin","address":"0x74efd4","size":4,"value":6000},
-{"description":"xbow_dmga_harcher","address":"0x74efd8","size":4,"value":12300},
-{"description":"xbow_dmga_sword","address":"0x74efdc","size":4,"value":6000},
+{"description":"xbow_dmga_sword","address":"0x74efdc","size":4,"value":3500},
+{"description":"xbow_dmge_monk","address":"0x74ef44","size":4,"value":5000},
+{"description":"xbow_dmga_slave","address":"0x74efcc","size":4,"value":5000},
+
+{"description":"xbow_dmge_ladder","address":"0x74ef24","size":4,"value":1800},
+{"description":"xbow_dmge_engineer","address":"0x74ef28","size":4,"value":3000},
 {"description":"xbow_dmgs_fballista","address":"0x74efe4","size":4,"value":700},
+{"description":"xbow_dmgdog","address":"0x74efbc","size":4,"value":7000},
 
 
 
@@ -236,7 +258,7 @@
 {"description":"cost_s_batteringram","address":"0x1c284c","size":4,"value":[16,0,0,0,120]},
 {"description":"Battering Ram Health","address":"0x74EBDC","size":4,"value":110000},
 {"description":"stone_dmgs_batteringram","address":"0x74ee5c","size":4,"value":1500},
-{"description":"xbow_dmgs_batteringram","address":"0x74ef9c","size":4,"value":1500},
+{"description":"xbow_dmgs_batteringram","address":"0x74ef9c","size":4,"value":1000},
 {"description":"arrow_dmgs_batteringram","address":"0x74ed1c","size":4,"value":300},
 {"description":"speed_s_batteringram","address":"0x74e81c","size":4,"value":3},
 
@@ -366,6 +388,10 @@
 
 
 
+{"description":"ladderman cost","address":"0x12F059","size":1,"value": 237},
+{"description":"e_ladder","address":"0x74eb64","size":4,"value":12000},
+
+
 
 {"description":"Maceman cost","address":"0x6B92B4","size":4,"value":18},
 {"description":"e_mace","address":"0x74eb58","size":4,"value":18000},
@@ -462,12 +488,12 @@
 {"description":"e_pike_meleedmg_walls","address":"0x15fC85","size":4,"value":5},
 {"description":"Pikeman recruit cost.","address":"0x6B92B0","size":4,"value":36},
 
-{"description":"melee_e_pike_vs_e_archer","address":"0x750f88","size":4,"value":40},
+{"description":"melee_e_pike_vs_e_archer","address":"0x750f88","size":4,"value":50},
 {"description":"melee_e_pike_vs_e_xbow","address":"0x750f8c","size":4,"value":30},
 {"description":"melee_e_pike_vs_e_spear","address":"0x750f90","size":4,"value":50},
 {"description":"melee_e_pike_vs_e_pike","address":"0x750f94","size":4,"value":40},
 {"description":"melee_e_pike_vs_e_mace","address":"0x750f98","size":4,"value":135},
-{"description":"melee_e_pike_vs_e_sword","address":"0x750f9c","size":4,"value":110},
+{"description":"melee_e_pike_vs_e_sword","address":"0x750f9c","size":4,"value":71},
 {"description":"melee_e_pike_vs_e_knight","address":"0x750fa0","size":4,"value":8},
 {"description":"melee_e_pike_vs_e_ladder","address":"0x750fa4","size":4,"value":60},
 {"description":"melee_e_pike_vs_e_engineer","address":"0x750fa8","size":4,"value":60},
@@ -476,7 +502,7 @@
 {"description":"melee_e_pike_vs_a_slinger","address":"0x751050","size":4,"value":50},
 {"description":"melee_e_pike_vs_a_assassin","address":"0x751054","size":4,"value":110},
 {"description":"melee_e_pike_vs_a_harcher","address":"0x751058","size":4,"value":200},
-{"description":"melee_e_pike_vs_a_sword","address":"0x75105c","size":4,"value":300},
+{"description":"melee_e_pike_vs_a_sword","address":"0x75105c","size":4,"value":250},
 {"description":"melee_e_pike_vs_a_firethrower","address":"0x751060","size":4,"value":50},
 {"description":"melee_e_pike_vs_tunneler","address":"0x750f44","size":4,"value":165},
 {"description":"melee_e_pike_vs_e_monk","address":"0x750fc4","size":4,"value":100},
@@ -553,7 +579,7 @@
 
 
 
-{"description":"Spearman cost","address":"0x6B92AC","size":4,"value":6},
+{"description":"Spearman cost","address":"0x6B92AC","size":4,"value":10},
 {"description":"e_spear","address":"0x74eb50","size":4,"value":12500},
 
 {"description":"melee_e_spear_vs_tunneler","address":"0x750e04","size":4,"value":150},
@@ -643,13 +669,13 @@
 {"description":"Euro Sword Health","address":"0x74EB5C","size":4,"value":26000},
 {"description":"European swordsman recruit cost.","address":"0x6B92B8","size":4,"value":18},
 
-{"description":"melee_e_sword_vs_a_firethrower","address":"0x7512e0","size":4,"value":40},
+{"description":"melee_e_sword_vs_a_firethrower","address":"0x7512e0","size":4,"value":26},
 {"description":"melee_e_sword_vs_a_harcher","address":"0x7512d8","size":4,"value":80},
-{"description":"melee_e_sword_vs_tunneler","address":"0x7511c4","size":4,"value":160},
-{"description":"melee_e_sword_vs_e_archer","address":"0x751208","size":4,"value":60},
-{"description":"melee_e_sword_vs_e_xbow","address":"0x75120c","size":4,"value":60},
-{"description":"melee_e_sword_vs_e_spear","address":"0x751210","size":4,"value":60},
-{"description":"melee_e_sword_vs_e_pike","address":"0x751214","size":4,"value":85},
+{"description":"melee_e_sword_vs_tunneler","address":"0x7511c4","size":4,"value":180},
+{"description":"melee_e_sword_vs_e_archer","address":"0x751208","size":4,"value":75},
+{"description":"melee_e_sword_vs_e_xbow","address":"0x75120c","size":4,"value":92},
+{"description":"melee_e_sword_vs_e_spear","address":"0x751210","size":4,"value":75},
+{"description":"melee_e_sword_vs_e_pike","address":"0x751214","size":4,"value":80},
 {"description":"melee_e_sword_vs_e_mace","address":"0x751218","size":4,"value":86},
 {"description":"melee_e_sword_vs_e_sword","address":"0x75121c","size":4,"value":15},
 {"description":"melee_e_sword_vs_e_knight","address":"0x751220","size":4,"value":30},
@@ -657,10 +683,10 @@
 {"description":"melee_e_sword_vs_e_engineer","address":"0x751228","size":4,"value":60},
 {"description":"melee_e_sword_vs_e_monk","address":"0x751244","size":4,"value":186},
 {"description":"melee_e_sword_vs_a_archer","address":"0x7512c8","size":4,"value":70},
-{"description":"melee_e_sword_vs_a_slave","address":"0x7512cc","size":4,"value":200},
+{"description":"melee_e_sword_vs_a_slave","address":"0x7512cc","size":4,"value":120},
 {"description":"melee_e_sword_vs_a_slinger","address":"0x7512d0","size":4,"value":150},
-{"description":"melee_e_sword_vs_a_assassin","address":"0x7512d4","size":4,"value":140},
-{"description":"melee_e_sword_vs_a_sword","address":"0x7512dc","size":4,"value":145},
+{"description":"melee_e_sword_vs_a_assassin","address":"0x7512d4","size":4,"value":119},
+{"description":"melee_e_sword_vs_a_sword","address":"0x7512dc","size":4,"value":100},
 
 {"description":"melee_e_sword_vs_s_fballista","address":"0x7512e4","size":4,"value":60},
 {"description":"melee_e_sword_vs_s_shield","address":"0x7512a0","size":4,"value":101},
@@ -733,7 +759,7 @@
 
 {"description":"melee_e_knight_vs_tunneler","address":"0x751304","size":4,"value":368},
 {"description":"melee_e_knight_vs_e_archer","address":"0x751348","size":4,"value":188},
-{"description":"melee_e_knight_vs_e_xbow","address":"0x75134c","size":4,"value":138},
+{"description":"melee_e_knight_vs_e_xbow","address":"0x75134c","size":4,"value":148},
 {"description":"melee_e_knight_vs_e_spear","address":"0x751350","size":4,"value":30},
 {"description":"melee_e_knight_vs_e_pike","address":"0x751354","size":4,"value":40},
 {"description":"melee_e_knight_vs_e_mace","address":"0x751358","size":4,"value":350},
@@ -747,7 +773,7 @@
 {"description":"melee_e_knight_vs_a_slinger","address":"0x751410","size":4,"value":265},
 {"description":"melee_e_knight_vs_a_assassin","address":"0x751414","size":4,"value":335},
 {"description":"melee_e_knight_vs_a_harcher","address":"0x751418","size":4,"value":308},
-{"description":"melee_e_knight_vs_a_sword","address":"0x75141c","size":4,"value":400},
+{"description":"melee_e_knight_vs_a_sword","address":"0x75141c","size":4,"value":380},
 {"description":"melee_e_knight_vs_a_firethrower","address":"0x751420","size":4,"value":30},
 
 {"description":"melee_e_knight_vs_s_catapult","address":"0x75138c","size":4,"value":138},
@@ -816,7 +842,7 @@
 
 
 
-{"description":"E_Archer cost","address":"0x6B92A4","size":4,"value":18},
+{"description":"E_Archer cost","address":"0x6B92A4","size":4,"value":24},
 {"description":"e_archer","address":"0x74eb48","size":4,"value":12000},
 {"description":"melee_e_archer_vs_a_firethrower","address":"0x750ca0","size":4,"value":7},
 {"description":"melee_e_archer_vs_a_sword","address":"0x750c9c","size":4,"value":60},
@@ -902,11 +928,9 @@
 
 
 
-
-{"description":"arabian archer cost","address":"0x12F06D","size":1,"value":5},
-{"description":"arabian archer cost displaycost","address":"0x6B92CC","size":4,"value":75},
+{"description":"horse archer","address":"0x12F095","size":1,"value":6},
+{"description":"horse archer displaycost","address":"0x6B92DC","size":4,"value":80},
 {"description":"a_harcher","address":"0x74ec18","size":4,"value":15000},
-{"description":"stone_dmga_harcher","address":"0x74ee98","size":4,"value":2000},
 
 {"description":"melee_a_harcher_vs_tunneler","address":"0x754c84","size":4,"value":235},
 {"description":"melee_a_harcher_vs_e_archer","address":"0x754cc8","size":4,"value":85},
@@ -991,28 +1015,28 @@
 
 
 
-{"description":"arabian swordsman cost","address":"0x12F09F","size":1,"value":55},
-{"description":"arabian swordsman displaycost","address":"0x6B92E0","size":4,"value":90},
+{"description":"arabian swordsman cost","address":"0x12F09F","size":1,"value":51},
+{"description":"arabian swordsman displaycost","address":"0x6B92E0","size":4,"value":86},
 {"description":"speed_a_sword","address":"0x74e85c","size":4,"value":2},
 {"description":"a_sword","address":"0x74ec1c","size":4,"value":61000},
 
-{"description":"melee_a_sword_vs_Tunneler","address":"0x754DC4","size":4,"value":390},
-{"description":"melee_a_sword_vs_e_Archer","address":"0x754E08","size":4,"value":180},
-{"description":"melee_a_sword_vs_Crossbowman","address":"0x754E0C","size":4,"value":160},
-{"description":"melee_a_sword_vs_Spearman","address":"0x754E10","size":4,"value":50},
+{"description":"melee_a_sword_vs_Tunneler","address":"0x754DC4","size":4,"value":120},
+{"description":"melee_a_sword_vs_e_Archer","address":"0x754E08","size":4,"value":38},
+{"description":"melee_a_sword_vs_Crossbowman","address":"0x754E0C","size":4,"value":30},
+{"description":"melee_a_sword_vs_Spearman","address":"0x754E10","size":4,"value":200},
 {"description":"melee_a_sword_vs_Pikeman","address":"0x754E14","size":4,"value":100},
 {"description":"melee_a_sword_vs_Maceman","address":"0x754E18","size":4,"value":210},
-{"description":"melee_a_sword_vs_Swordsman","address":"0x754E1C","size":4,"value":100},
-{"description":"melee_a_sword_vs_Knight","address":"0x754E20","size":4,"value":55},
+{"description":"melee_a_sword_vs_Swordsman","address":"0x754E1C","size":4,"value":70},
+{"description":"melee_a_sword_vs_Knight","address":"0x754E20","size":4,"value":65},
 {"description":"melee_a_sword_vs_Ladderman","address":"0x754E24","size":4,"value":130},
 {"description":"melee_a_sword_vs_Engineer","address":"0x754E28","size":4,"value":130},
 {"description":"melee_a_sword_vs_Monk","address":"0x754E44","size":4,"value":205},
-{"description":"melee_a_sword_vs_Arab archer","address":"0x754EC8","size":4,"value":200},
-{"description":"melee_a_sword_vs_Arab slave","address":"0x754ECC","size":4,"value":130},
-{"description":"melee_a_sword_vs_Arab slinger","address":"0x754ED0","size":4,"value":230},
+{"description":"melee_a_sword_vs_Arab archer","address":"0x754EC8","size":4,"value":160},
+{"description":"melee_a_sword_vs_Arab slave","address":"0x754ECC","size":4,"value":220},
+{"description":"melee_a_sword_vs_Arab slinger","address":"0x754ED0","size":4,"value":200},
 {"description":"melee_a_sword_vs_Arab assassin","address":"0x754ED4","size":4,"value":160},
 {"description":"melee_a_sword_vs_Arab horse archer","address":"0x754ED8","size":4,"value":110},
-{"description":"melee_a_sword_vs_Arab fire thrower","address":"0x754EE0","size":4,"value":45},
+{"description":"melee_a_sword_vs_Arab fire thrower","address":"0x754EE0","size":4,"value":80},
 {"description":"melee_a_sword_vs_a_sword","address":"0x754edc","size":4,"value":180},
 
 {"description":"melee_a_sword_vs_s_shield","address":"0x754ea0","size":4,"value":101},
@@ -1033,10 +1057,10 @@
 {"description":"melee_a_sword_vs_Blacksmith","address":"0x754DFC","size":4,"value":130},
 {"description":"melee_a_sword_vs_Drunkard","address":"0x754E3C","size":4,"value":130},
 {"description":"melee_a_sword_vs_Wolf","address":"0x754E64","size":4,"value":130},
-{"description":"melee_a_sword_vs_Dog","address":"0x754E80","size":4,"value":130},
-{"description":"melee_a_sword_vs_Lord","address":"0x754E8C","size":4,"value":130},
+{"description":"melee_a_sword_vs_Dog","address":"0x754E80","size":4,"value":55},
+{"description":"melee_a_sword_vs_Lord","address":"0x754E8C","size":4,"value":50},
 {"description":"melee_a_sword_vs_Jester","address":"0x754E94","size":4,"value":130},
-{"description":"melee_a_sword_vs_Attack Dog","address":"0x754EBC","size":4,"value":130},
+{"description":"melee_a_sword_vs_Attack Dog","address":"0x754EBC","size":4,"value":55},
 
 {"description":"melee_a_sword_vs_","address":"0x754DB0","size":4,"value":130},
 {"description":"melee_a_sword_vs_Peasant","address":"0x754DB4","size":4,"value":130},
@@ -1174,6 +1198,9 @@
 
 {"description":"speed_a_archer","address":"0x74e848","size":4,"value":2},
 {"description":"a_archer","address":"0x74ec08","size":4,"value":16000},
+{"description":"arabian archer cost","address":"0x12F06D","size":1,"value":9},
+{"description":"arabian archer cost displaycost","address":"0x6B92CC","size":4,"value":80},
+
 
 {"description":"melee_a_archer_vs_a_sword","address":"0x75489c","size":4,"value":60},
 {"description":"melee_a_archer_vs_a_firethrower","address":"0x7548a0","size":4,"value":7},
@@ -1261,6 +1288,7 @@
 
 
 {"description":"a_assassin","address":"0x74ec14","size":4,"value":18500},
+{"description":"speed_a_assassin","address":"0x74e854","size":4,"value":2},
 
 {"description":"melee_a_assassin_vs_tunneler","address":"0x754b44","size":4,"value":180},
 {"description":"melee_a_assassin_vs_e_archer","address":"0x754b88","size":4,"value":140},
@@ -1347,14 +1375,12 @@
 
 
 {"description":"speed_a_firethrower","address":"0x74e860","size":4,"value":1},
-{"description":"xbow_dmga_firethrower","address":"0x74efe0","size":4,"value":3000},
 {"description":"a_firethrower","address":"0x74ec20","size":4,"value":12000},
 {"description":"firethrower cost","address":"0x12F0AD","size":1,"value":24},
 {"description":"firethrower displaycost","address":"0x6B92E4","size":4,"value":100},
-{"description":"arrow_dmga_firethrower","address":"0x74ed60","size":4,"value":1050},
 
 {"description":"melee_a_firethrower_vs_a_firethrower","address":"0x755020","size":4,"value":10},
-{"description":"melee_a_firethrower_vs_e_pike","address":"0x754f54","size":4,"value":30},
+{"description":"melee_a_firethrower_vs_e_pike","address":"0x754f54","size":4,"value":50},
 {"description":"melee_a_firethrower_vs_e_sword","address":"0x754f5c","size":4,"value":40},
 {"description":"melee_a_firethrower_vs_e_knight","address":"0x754f60","size":4,"value":45},
 {"description":"melee_a_firethrower_vs_tunneler","address":"0x754f04","size":4,"value":65},
@@ -1362,7 +1388,7 @@
 {"description":"melee_a_firethrower_vs_e_archer","address":"0x754f48","size":4,"value":85},
 {"description":"melee_a_firethrower_vs_e_xbow","address":"0x754f4c","size":4,"value":55},
 {"description":"melee_a_firethrower_vs_e_spear","address":"0x754f50","size":4,"value":15},
-{"description":"melee_a_firethrower_vs_e_mace","address":"0x754f58","size":4,"value":105},
+{"description":"melee_a_firethrower_vs_e_mace","address":"0x754f58","size":4,"value":60},
 {"description":"melee_a_firethrower_vs_e_ladder","address":"0x754f64","size":4,"value":25},
 {"description":"melee_a_firethrower_vs_e_engineer","address":"0x754f68","size":4,"value":125},
 {"description":"melee_a_firethrower_vs_a_archer","address":"0x755008","size":4,"value":65},
@@ -1534,7 +1560,6 @@
 
 
 
-{"description":"e_ladder","address":"0x74eb64","size":4,"value":7000},
 
 
 
