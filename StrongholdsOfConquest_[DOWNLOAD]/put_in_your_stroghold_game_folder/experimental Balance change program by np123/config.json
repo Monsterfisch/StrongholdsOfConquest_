@@ -1316,6 +1316,8 @@
 
 
 
+{"description":"assassin cost","address":"0x12F08B","size":1,"value":3},
+{"description":"assassin displaycost","address":"0x6B92D8","size":4,"value":55},
 {"description":"a_assassin","address":"0x74ec14","size":4,"value":18500},
 {"description":"speed_a_assassin","address":"0x74e854","size":4,"value":2},
 
@@ -1493,7 +1495,7 @@
 
 
 
-{"description":"e_monk","address":"0x74eb84","size":4,"value":16000},
+{"description":"e_monk","address":"0x74eb84","size":4,"value":15000},
 {"description":"e_monk_meleedmg_walls","address":"0x167F7C","size":4,"value":3},
 {"description":"speed_e_monk","address":"0x74e7c4","size":4,"value": 1},
 {"description":"monk cost","address":"0x12F063","size":1,"value":226},
