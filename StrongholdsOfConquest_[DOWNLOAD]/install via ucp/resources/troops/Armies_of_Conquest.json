@@ -79,16 +79,16 @@
       "Type": "Europ"
     },
     "normal": {
-      "Units": [ "Swordsman", "Crossbowman", "EuropArcher" ],
-      "Counts": [ 5, 2, 5 ]
+      "Units": [ "Swordsman", "Pikeman", "Crossbowman", "EuropArcher", "ArabArcher" ],
+      "Counts": [ 2, 3, 2, 3, 2 ]
     },
     "crusader": {
-      "Units": [ "Swordsman", "Crossbowman", "Pikeman", "EuropArcher" ],
-      "Counts": [ 10, 10, 10, 20 ]
+      "Units": [ "Swordsman", "Pikeman", "Crossbowman", "EuropArcher", "ArabArcher" ],
+      "Counts": [ 10, 15, 10, 10, 10 ]
     },
     "deathmatch": {
-      "Units": [ "Swordsman", "Crossbowman", "EuropArcher" ],
-      "Counts": [ 5, 2, 5 ]
+      "Units": [ "Swordsman", "Pikeman", "Crossbowman", "EuropArcher", "ArabArcher" ],
+      "Counts": [ 2, 3, 2, 3, 2 ]
     }
   },
   "5": {
@@ -289,16 +289,16 @@
       "Type": "Europ"
     },
     "normal": {
-      "Units": [ "FireThrower", "Crossbowman", "Maceman" ],
-      "Counts": [ 1, 3, 8 ]
+      "Units": [ "FireThrower", "Crossbowman", "Maceman", "ArabArcher" ],
+      "Counts": [ 1, 3, 6, 2 ]
     },
     "crusader": {
-      "Units": [ "FireThrower", "Crossbowman", "Maceman" ],
-      "Counts": [ 2, 10, 38 ]
+      "Units": [ "FireThrower", "Crossbowman", "Maceman", "ArabArcher" ],
+      "Counts": [ 2, 17, 18, 13 ]
     },
     "deathmatch": {
-      "Units": [ "FireThrower", "Crossbowman", "Maceman" ],
-      "Counts": [ 1, 3, 8 ]
+      "Units": [ "FireThrower", "Crossbowman", "Maceman", "ArabArcher" ],
+      "Counts": [ 1, 3, 6, 2 ]
     }
   },
   "15": {

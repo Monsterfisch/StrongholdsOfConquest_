@@ -19,9 +19,129 @@
     },
     {
         "description": "Jester visiting assassins toggle.",
-        "address": "0x755AB4",
+        "address": "0x755aB4",
         "size": 1,
         "value": "0x1"
+    },
+    {
+        "description": "offset_tower1_x",
+        "address": "e565f",
+        "size": 1,
+        "value": "0xd0"
+    },
+    {
+        "description": "offset_tower1_y",
+        "address": "e5658",
+        "size": 4,
+        "value": "0xffffff3e"
+    },
+    {
+        "description": "offset_tower2_x",
+        "address": "e5741",
+        "size": 1,
+        "value": "0x87"
+    },
+    {
+        "description": "offset_tower2_y",
+        "address": "e573a",
+        "size": 4,
+        "value": "0xffffff0a"
+    },
+    {
+        "description": "offset_tower3_x",
+        "address": "e57f6",
+        "size": 1,
+        "value": "0xb4"
+    },
+    {
+        "description": "offset_tower3_y",
+        "address": "e57ef",
+        "size": 4,
+        "value": "0xfffffefc"
+    },
+    {
+        "description": "offset_tower4_x",
+        "address": "e56d0",
+        "size": 1,
+        "value": "0xc1"
+    },
+    {
+        "description": "offset_tower4_y",
+        "address": "e56c9",
+        "size": 4,
+        "value": "0xffffff1f"
+    },
+    {
+        "description": "offset_keep_x",
+        "address": "e536a",
+        "size": 1,
+        "value": "0xa0"
+    },
+    {
+        "description": "offset_keep_y",
+        "address": "e5363",
+        "size": 4,
+        "value": "0xffffff71"
+    },
+    {
+        "description": "offset_closed_tower4_x",
+        "address": "e57a7",
+        "size": 1,
+        "value": "0x87"
+    },
+    {
+        "description": "offset_closed_tower4_y",
+        "address": "e57a0",
+        "size": 4,
+        "value": "0xffffff0a"
+    },
+    {
+        "description": "offset_closed_tower0_x",
+        "address": "e5636",
+        "size": 1,
+        "value": "0xd6"
+    },
+    {
+        "description": "offset_closed_tower0_y",
+        "address": "e562f",
+        "size": 4,
+        "value": "0xffffff0a"
+    },
+    {
+        "description": "offset_tower0_x",
+        "address": "e5610",
+        "size": 1,
+        "value": "0xe0"
+    },
+    {
+        "description": "offset_tower0_y",
+        "address": "e5609",
+        "size": 4,
+        "value": "0xffffff0a"
+    },
+    {
+        "description": "offset_biggate_door_Left_x",
+        "address": "e53b7",
+        "size": 1,
+        "value": "0xf9"
+    },
+    {
+        "description": "offset_biggate_door_Left_y",
+        "address": "e53b0",
+        "size": 4,
+        "value": "0xffffff3f"
+    },
+    {
+        "description": "offset_biggate_door_right_x",
+        "address": "e53d9",
+        "size": 1,
+        "value": "0xa0"
+    },
+    {
+        "description": "offset_biggate_door_right_y",
+        "address": "e53d2",
+        "size": 4,
+        "value": "0xffffff3f"
     },
     {
         "description": "buy_flour",
@@ -253,37 +373,37 @@
     },
     {
         "description": "blessable_woodcutter",
-        "address": "0x755ADC",
+        "address": "0x755aDC",
         "size": 4,
         "value": "0x0"
     },
     {
         "description": "blessable_hunter",
-        "address": "0x755AE8",
+        "address": "0x755aE8",
         "size": 4,
         "value": "0x0"
     },
     {
         "description": "blessable_quarry_mason",
-        "address": "0x755AEC",
+        "address": "0x755aEC",
         "size": 4,
         "value": "0x0"
     },
     {
         "description": "blessable_quarry_worker",
-        "address": "0x755AF0",
+        "address": "0x755aF0",
         "size": 4,
         "value": "0x0"
     },
     {
         "description": "blessable_pitchworker",
-        "address": "0x755AF8",
+        "address": "0x755aF8",
         "size": 4,
         "value": "0x0"
     },
     {
         "description": "blessable_wheat_farmer",
-        "address": "0x755AFC",
+        "address": "0x755aFC",
         "size": 4,
         "value": "0x0"
     },
@@ -319,7 +439,7 @@
     },
     {
         "description": "blessable_healer",
-        "address": "0x751AF8",
+        "address": "0x751aF8",
         "size": 4,
         "value": "0x2"
     },
@@ -378,6 +498,18 @@
         "value": "0x96"
     },
     {
+        "description": "lord",
+        "address": "0x74ebcc",
+        "size": 4,
+        "value": "0x249f0"
+    },
+    {
+        "description": "speed_lord",
+        "address": "0x74e80c",
+        "size": 4,
+        "value": "0x2"
+    },
+    {
         "description": "speed_priest",
         "address": "0x74e7b4",
         "size": 4,
@@ -388,6 +520,66 @@
         "address": "0x74e754",
         "size": 4,
         "value": "0x3"
+    },
+    {
+        "description": "speed_pitchman",
+        "address": "0x74e758",
+        "size": 4,
+        "value": "0x1"
+    },
+    {
+        "description": "Apothecary pop",
+        "address": "0x1BA494",
+        "size": 4,
+        "value": "0x0"
+    },
+    {
+        "description": "Fletcher pop",
+        "address": "0x1BA468",
+        "size": 4,
+        "value": "0x0"
+    },
+    {
+        "description": "Blacksmith pop",
+        "address": "0x1BA46C",
+        "size": 4,
+        "value": "0x0"
+    },
+    {
+        "description": "Poleturner pop",
+        "address": "0x1BA470",
+        "size": 4,
+        "value": "0x0"
+    },
+    {
+        "description": "Armourer pop",
+        "address": "0x1BA474",
+        "size": 4,
+        "value": "0x0"
+    },
+    {
+        "description": "Tanner pop",
+        "address": "0x1BA478",
+        "size": 4,
+        "value": "0x0"
+    },
+    {
+        "description": "Bakery pop",
+        "address": "0x1BA47C",
+        "size": 4,
+        "value": "0x0"
+    },
+    {
+        "description": "Brewery pop",
+        "address": "0x1BA480",
+        "size": 4,
+        "value": "0x0"
+    },
+    {
+        "description": "Inn pop",
+        "address": "0x1BA490",
+        "size": 4,
+        "value": "0x0"
     },
     {
         "description": "stone_dmge_mace",
@@ -444,22 +636,76 @@
         "value": "0xfa0"
     },
     {
-        "description": "arrow_dmge_mace",
-        "address": "0x74ec98",
+        "description": "stone_dmge_xbow",
+        "address": "0x74edcc",
         "size": 4,
-        "value": "0x3e8"
+        "value": "0x2ee"
     },
     {
-        "description": "arrow_dmgs_tower",
-        "address": "0x74ed18",
+        "description": "stone_dmga_slinger",
+        "address": "0x74ee90",
         "size": 4,
         "value": "0xbb8"
+    },
+    {
+        "description": "stone_dmge_monk",
+        "address": "0x74ee04",
+        "size": 4,
+        "value": "0x1f4"
+    },
+    {
+        "description": "stone_dmga_harcher",
+        "address": "0x74ee98",
+        "size": 4,
+        "value": "0x1f4"
+    },
+    {
+        "description": "arrow_dmge_archer",
+        "address": "0x74ec88",
+        "size": 4,
+        "value": "0x7d0"
+    },
+    {
+        "description": "arrow_dmge_xbow",
+        "address": "0x74ec8c",
+        "size": 4,
+        "value": "0x5dc"
+    },
+    {
+        "description": "arrow_dmga_slinger",
+        "address": "0x74ed50",
+        "size": 4,
+        "value": "0xfa0"
+    },
+    {
+        "description": "arrow_dmga_archer",
+        "address": "0x74ed48",
+        "size": 4,
+        "value": "0x7d0"
+    },
+    {
+        "description": "arrow_dmga_harcher",
+        "address": "0x74ed58",
+        "size": 4,
+        "value": "0x4e2"
+    },
+    {
+        "description": "arrow_dmga_firethrower",
+        "address": "0x74ed60",
+        "size": 4,
+        "value": "0x4e2"
     },
     {
         "description": "arrow_dmge_sword",
         "address": "0x74ec9c",
         "size": 4,
         "value": "0x96"
+    },
+    {
+        "description": "arrow_dmge_mace",
+        "address": "0x74ec98",
+        "size": 4,
+        "value": "0x3e8"
     },
     {
         "description": "arrow_dmge_knight",
@@ -474,22 +720,46 @@
         "value": "0x3e8"
     },
     {
+        "description": "arrow_dmga_slave",
+        "address": "0x74ed4c",
+        "size": 4,
+        "value": "0x1b58"
+    },
+    {
+        "description": "arrow_dmga_assassin",
+        "address": "0x74ed54",
+        "size": 4,
+        "value": "0x5dc"
+    },
+    {
         "description": "arrow_dmga_sword",
         "address": "0x74ed5c",
         "size": 4,
         "value": "0x12c"
     },
     {
-        "description": "arrow_dmge_xbow",
-        "address": "0x74ec8c",
+        "description": "arrow_dmge_spear",
+        "address": "0x74ec90",
         "size": 4,
-        "value": "0x5dc"
+        "value": "0x7d0"
     },
     {
-        "description": "arrow_dmga_slave",
-        "address": "0x74ed4c",
+        "description": "arrow_dmgs_tower",
+        "address": "0x74ed18",
         "size": 4,
-        "value": "0x1b58"
+        "value": "0xbb8"
+    },
+    {
+        "description": "arrow_dmge_ladder",
+        "address": "0x74eca4",
+        "size": 4,
+        "value": "0x1a4"
+    },
+    {
+        "description": "arrow_dmgdog",
+        "address": "0x74ed3c",
+        "size": 4,
+        "value": "0xfa0"
     },
     {
         "description": "xbow_dmge_archer",
@@ -502,6 +772,30 @@
         "address": "0x74ef0c",
         "size": 4,
         "value": "0x1388"
+    },
+    {
+        "description": "xbow_dmga_slinger",
+        "address": "0x74efd0",
+        "size": 4,
+        "value": "0x1f40"
+    },
+    {
+        "description": "xbow_dmga_archer",
+        "address": "0x74efc8",
+        "size": 4,
+        "value": "0x2710"
+    },
+    {
+        "description": "xbow_dmga_harcher",
+        "address": "0x74efd8",
+        "size": 4,
+        "value": "0x1f40"
+    },
+    {
+        "description": "xbow_dmga_firethrower",
+        "address": "0x74efe0",
+        "size": 4,
+        "value": "0x1f40"
     },
     {
         "description": "xbow_dmge_spear",
@@ -534,6 +828,30 @@
         "value": "0x9c4"
     },
     {
+        "description": "xbow_dmga_assassin",
+        "address": "0x74efd4",
+        "size": 4,
+        "value": "0x1f40"
+    },
+    {
+        "description": "xbow_dmga_sword",
+        "address": "0x74efdc",
+        "size": 4,
+        "value": "0xdac"
+    },
+    {
+        "description": "xbow_dmge_monk",
+        "address": "0x74ef44",
+        "size": 4,
+        "value": "0x1b58"
+    },
+    {
+        "description": "xbow_dmga_slave",
+        "address": "0x74efcc",
+        "size": 4,
+        "value": "0x1770"
+    },
+    {
         "description": "xbow_dmge_ladder",
         "address": "0x74ef24",
         "size": 4,
@@ -546,52 +864,16 @@
         "value": "0x2710"
     },
     {
-        "description": "xbow_dmge_monk",
-        "address": "0x74ef44",
-        "size": 4,
-        "value": "0x1b58"
-    },
-    {
-        "description": "xbow_dmga_archer",
-        "address": "0x74efc8",
-        "size": 4,
-        "value": "0x2710"
-    },
-    {
-        "description": "xbow_dmga_slave",
-        "address": "0x74efcc",
-        "size": 4,
-        "value": "0x1770"
-    },
-    {
-        "description": "xbow_dmga_slinger",
-        "address": "0x74efd0",
-        "size": 4,
-        "value": "0x1f40"
-    },
-    {
-        "description": "xbow_dmga_assassin",
-        "address": "0x74efd4",
-        "size": 4,
-        "value": "0x1f40"
-    },
-    {
-        "description": "xbow_dmga_harcher",
-        "address": "0x74efd8",
-        "size": 4,
-        "value": "0x1f40"
-    },
-    {
-        "description": "xbow_dmga_sword",
-        "address": "0x74efdc",
-        "size": 4,
-        "value": "0xdac"
-    },
-    {
         "description": "xbow_dmgs_fballista",
         "address": "0x74efe4",
         "size": 4,
         "value": "0x1f4"
+    },
+    {
+        "description": "xbow_dmgdog",
+        "address": "0x74efbc",
+        "size": 4,
+        "value": "0x2710"
     },
     {
         "description": "melee_woodcutter_vs_a_firethrower",
@@ -754,6 +1036,12 @@
         "address": "0x1ba220",
         "size": 4,
         "value": "0x64"
+    },
+    {
+        "description": "granary",
+        "address": "0x1ba264",
+        "size": 4,
+        "value": "0x12c"
     },
     {
         "description": "cost_tower_one",
@@ -1152,6 +1440,42 @@
         ]
     },
     {
+        "description": "cost_mercenarypost",
+        "address": "0x1c2270",
+        "size": 4,
+        "value": [
+            "0xa",
+            "0x0",
+            "0x0",
+            "0x0",
+            "0x0"
+        ]
+    },
+    {
+        "description": "cost_large_gatehouse",
+        "address": "0x1c2554",
+        "size": 4,
+        "value": [
+            "0x0",
+            "0x14",
+            "0x0",
+            "0x0",
+            "0x0"
+        ]
+    },
+    {
+        "description": "cost_small_gatehouse",
+        "address": "0x1c2568",
+        "size": 4,
+        "value": [
+            "0x0",
+            "0xa",
+            "0x0",
+            "0x0",
+            "0x0"
+        ]
+    },
+    {
         "description": "melee_dog_vs_a_assassin",
         "address": "0x753214",
         "size": 4,
@@ -1230,6 +1554,48 @@
         "value": "0x7d0"
     },
     {
+        "description": "bal_and_fbal_dmgs_catapult",
+        "address": "0x132313",
+        "size": 4,
+        "value": "0x9c4"
+    },
+    {
+        "description": "bal_and_fbal dmg vs everything else, compared to siege tower, substracted from int32 max",
+        "address": "0x13233E",
+        "size": 4,
+        "value": "0xffffd8f0"
+    },
+    {
+        "description": "s_fballista",
+        "address": "0x74ec24",
+        "size": 4,
+        "value": "0x2710"
+    },
+    {
+        "description": "cost_s_fballista",
+        "address": "0x1c2608",
+        "size": 4,
+        "value": [
+            "0x0",
+            "0x0",
+            "0x0",
+            "0x0",
+            "0x96"
+        ]
+    },
+    {
+        "description": "stone_dmgs_fballista",
+        "address": "0x74eea4",
+        "size": 4,
+        "value": "0x64"
+    },
+    {
+        "description": "arrow_dmgs_fballista",
+        "address": "0x74ed64",
+        "size": 4,
+        "value": "0x1f4"
+    },
+    {
         "description": "cost_s_siegetower",
         "address": "0x1c2838",
         "size": 4,
@@ -1258,6 +1624,30 @@
         "address": "0x74e818",
         "size": 4,
         "value": "0x3"
+    },
+    {
+        "description": "cata_dmg_building",
+        "address": "0x7CF5",
+        "size": 4,
+        "value": "0x14"
+    },
+    {
+        "description": "cata_collatdmg_building",
+        "address": "0x7AA6",
+        "size": 4,
+        "value": "0xa"
+    },
+    {
+        "description": "catapult_initial_stone",
+        "address": "0x13EA05",
+        "size": 2,
+        "value": "0x14"
+    },
+    {
+        "description": "catapult_reload_stone_amount",
+        "address": "0x6616A",
+        "size": 1,
+        "value": "0x14"
     },
     {
         "description": "cost_s_catapult",
@@ -1368,36 +1758,6 @@
         "value": "0xc8"
     },
     {
-        "description": "s_fballista",
-        "address": "0x74ec24",
-        "size": 4,
-        "value": "0x2710"
-    },
-    {
-        "description": "cost_s_fballista",
-        "address": "0x1c2608",
-        "size": 4,
-        "value": [
-            "0x0",
-            "0x0",
-            "0x0",
-            "0x0",
-            "0x96"
-        ]
-    },
-    {
-        "description": "stone_dmgs_fballista",
-        "address": "0x74eea4",
-        "size": 4,
-        "value": "0x64"
-    },
-    {
-        "description": "arrow_dmgs_fballista",
-        "address": "0x74ed64",
-        "size": 4,
-        "value": "0x1f4"
-    },
-    {
         "description": "cost_s_shield",
         "address": "0x1c2860",
         "size": 4,
@@ -1494,8 +1854,32 @@
         "value": "0xa"
     },
     {
+        "description": "melee_lion_vs_e_mace",
+        "address": "0x752898",
+        "size": 4,
+        "value": "0x64"
+    },
+    {
+        "description": "melee_dog_vs_e_mace",
+        "address": "0x753158",
+        "size": 4,
+        "value": "0xa"
+    },
+    {
+        "description": "melee_lord_vs_e_mace",
+        "address": "0x753518",
+        "size": 4,
+        "value": "0x96"
+    },
+    {
+        "description": "melee_woodcutter_vs_e_mace",
+        "address": "0x74f418",
+        "size": 4,
+        "value": "0x14"
+    },
+    {
         "description": "Crossbowman cost",
-        "address": "0x6B92A8",
+        "address": "0x6B92a8",
         "size": 4,
         "value": "0x14"
     },
@@ -1962,6 +2346,18 @@
         "value": "0x2"
     },
     {
+        "description": "ladderman cost",
+        "address": "0x12F059",
+        "size": 1,
+        "value": "0xf7"
+    },
+    {
+        "description": "e_ladder",
+        "address": "0x74eb64",
+        "size": 4,
+        "value": "0x1388"
+    },
+    {
         "description": "Maceman cost",
         "address": "0x6B92B4",
         "size": 4,
@@ -1972,6 +2368,12 @@
         "address": "0x74eb58",
         "size": 4,
         "value": "0x3a98"
+    },
+    {
+        "description": "speed_e_mace",
+        "address": "0x74e798",
+        "size": 4,
+        "value": "0x1"
     },
     {
         "description": "melee_e_mace_vs_tunneler",
@@ -2911,7 +3313,7 @@
     },
     {
         "description": "Spearman cost",
-        "address": "0x6B92AC",
+        "address": "0x6B92aC",
         "size": 4,
         "value": "0x8"
     },
@@ -2920,6 +3322,12 @@
         "address": "0x74eb50",
         "size": 4,
         "value": "0x2710"
+    },
+    {
+        "description": "speed_e_spear",
+        "address": "0x74e790",
+        "size": 4,
+        "value": "0x1"
     },
     {
         "description": "melee_e_spear_vs_tunneler",
@@ -3396,6 +3804,12 @@
         "value": "0x28"
     },
     {
+        "description": "e_sword_meleedmg_walls",
+        "address": "0x1624CE",
+        "size": 4,
+        "value": "0xa"
+    },
+    {
         "description": "melee_e_sword_vs_a_firethrower",
         "address": "0x7512e0",
         "size": 4,
@@ -3870,6 +4284,12 @@
         "value": "0x28"
     },
     {
+        "description": "e_knight_meleedmg_building",
+        "address": "0x1633FD",
+        "size": 1,
+        "value": "0x46"
+    },
+    {
         "description": "melee_e_knight_vs_tunneler",
         "address": "0x751304",
         "size": 4,
@@ -4326,8 +4746,8 @@
         "value": "0x2"
     },
     {
-        "description": "E_Archer cost",
-        "address": "0x6B92A4",
+        "description": "E_archer cost",
+        "address": "0x6B92a4",
         "size": 4,
         "value": "0xc"
     },
@@ -4336,6 +4756,12 @@
         "address": "0x74eb48",
         "size": 4,
         "value": "0x2710"
+    },
+    {
+        "description": "speed_e_archer",
+        "address": "0x74e788",
+        "size": 4,
+        "value": "0x1"
     },
     {
         "description": "melee_e_archer_vs_a_firethrower",
@@ -4794,16 +5220,16 @@
         "value": "0x2"
     },
     {
-        "description": "arabian archer cost",
-        "address": "0x12F06D",
+        "description": "horse archer",
+        "address": "0x12F095",
         "size": 1,
-        "value": "0x5"
+        "value": "0x6"
     },
     {
-        "description": "arabian archer cost displaycost",
-        "address": "0x6B92CC",
+        "description": "horse archer displaycost",
+        "address": "0x6B92DC",
         "size": 4,
-        "value": "0x4b"
+        "value": "0x50"
     },
     {
         "description": "a_harcher",
@@ -4812,10 +5238,10 @@
         "value": "0x2710"
     },
     {
-        "description": "stone_dmga_harcher",
-        "address": "0x74ee98",
+        "description": "speed_a_harcher",
+        "address": "0x74e858",
         "size": 4,
-        "value": "0x1f4"
+        "value": "0x1"
     },
     {
         "description": "melee_a_harcher_vs_tunneler",
@@ -5304,7 +5730,7 @@
         "value": "0x64"
     },
     {
-        "description": "melee_a_sword_vs_e_Archer",
+        "description": "melee_a_sword_vs_e_archer",
         "address": "0x754E08",
         "size": 4,
         "value": "0x64"
@@ -5364,37 +5790,37 @@
         "value": "0x64"
     },
     {
-        "description": "melee_a_sword_vs_Arab archer",
+        "description": "melee_a_sword_vs_arab archer",
         "address": "0x754EC8",
         "size": 4,
         "value": "0x64"
     },
     {
-        "description": "melee_a_sword_vs_Arab slave",
+        "description": "melee_a_sword_vs_arab slave",
         "address": "0x754ECC",
         "size": 4,
         "value": "0xc8"
     },
     {
-        "description": "melee_a_sword_vs_Arab slinger",
+        "description": "melee_a_sword_vs_arab slinger",
         "address": "0x754ED0",
         "size": 4,
         "value": "0x96"
     },
     {
-        "description": "melee_a_sword_vs_Arab assassin",
+        "description": "melee_a_sword_vs_arab assassin",
         "address": "0x754ED4",
         "size": 4,
         "value": "0x64"
     },
     {
-        "description": "melee_a_sword_vs_Arab horse archer",
+        "description": "melee_a_sword_vs_arab horse archer",
         "address": "0x754ED8",
         "size": 4,
         "value": "0x64"
     },
     {
-        "description": "melee_a_sword_vs_Arab fire thrower",
+        "description": "melee_a_sword_vs_arab fire thrower",
         "address": "0x754EE0",
         "size": 4,
         "value": "0x64"
@@ -5437,13 +5863,13 @@
     },
     {
         "description": "melee_a_sword_vs_Portable Shield",
-        "address": "0x754EA0",
+        "address": "0x754Ea0",
         "size": 4,
         "value": "0x64"
     },
     {
         "description": "melee_a_sword_vs_Ballista",
-        "address": "0x754EA4",
+        "address": "0x754Ea4",
         "size": 4,
         "value": "0x64"
     },
@@ -5454,7 +5880,7 @@
         "value": "0x28"
     },
     {
-        "description": "melee_a_sword_vs_Arab fire ballista",
+        "description": "melee_a_sword_vs_arab fire ballista",
         "address": "0x754EE4",
         "size": 4,
         "value": "0x64"
@@ -5520,7 +5946,7 @@
         "value": "0x64"
     },
     {
-        "description": "melee_a_sword_vs_Attack Dog",
+        "description": "melee_a_sword_vs_attack Dog",
         "address": "0x754EBC",
         "size": 4,
         "value": "0x64"
@@ -5574,7 +6000,7 @@
         "value": "0x64"
     },
     {
-        "description": "melee_a_sword_vs_Apple Farmer",
+        "description": "melee_a_sword_vs_apple Farmer",
         "address": "0x754DE4",
         "size": 4,
         "value": "0x64"
@@ -5610,7 +6036,7 @@
         "value": "0x64"
     },
     {
-        "description": "melee_a_sword_vs_Armorer",
+        "description": "melee_a_sword_vs_armorer",
         "address": "0x754E00",
         "size": 4,
         "value": "0x64"
@@ -5713,13 +6139,13 @@
     },
     {
         "description": "melee_a_sword_vs_Chicken",
-        "address": "0x754EA8",
+        "address": "0x754Ea8",
         "size": 4,
         "value": "0x64"
     },
     {
         "description": "melee_a_sword_vs_Mother",
-        "address": "0x754EAC",
+        "address": "0x754EaC",
         "size": 4,
         "value": "0x64"
     },
@@ -5758,6 +6184,12 @@
         "address": "0x6B92D4",
         "size": 4,
         "value": "0xc"
+    },
+    {
+        "description": "speed_a_slinger",
+        "address": "0x74e850",
+        "size": 4,
+        "value": "0x1"
     },
     {
         "description": "melee_a_slinger_vs_a_firethrower",
@@ -6216,12 +6648,6 @@
         "value": "0x2"
     },
     {
-        "description": "arrow_dmga_archer",
-        "address": "0x74ed48",
-        "size": 4,
-        "value": "0x7d0"
-    },
-    {
         "description": "speed_a_archer",
         "address": "0x74e848",
         "size": 4,
@@ -6232,6 +6658,18 @@
         "address": "0x74ec08",
         "size": 4,
         "value": "0x2ee0"
+    },
+    {
+        "description": "arabian archer cost",
+        "address": "0x12F06D",
+        "size": 1,
+        "value": "0x5"
+    },
+    {
+        "description": "arabian archer cost displaycost",
+        "address": "0x6B92CC",
+        "size": 4,
+        "value": "0x4b"
     },
     {
         "description": "melee_a_archer_vs_a_sword",
@@ -6690,10 +7128,28 @@
         "value": "0x2"
     },
     {
+        "description": "assassin cost",
+        "address": "0x12F08B",
+        "size": 1,
+        "value": "0xf3"
+    },
+    {
+        "description": "assassin displaycost",
+        "address": "0x6B92D8",
+        "size": 4,
+        "value": "0x3c"
+    },
+    {
         "description": "a_assassin",
         "address": "0x74ec14",
         "size": 4,
         "value": "0x3a98"
+    },
+    {
+        "description": "speed_a_assassin",
+        "address": "0x74e854",
+        "size": 4,
+        "value": "0x1"
     },
     {
         "description": "melee_a_assassin_vs_tunneler",
@@ -7158,12 +7614,6 @@
         "value": "0x2"
     },
     {
-        "description": "xbow_dmga_firethrower",
-        "address": "0x74efe0",
-        "size": 4,
-        "value": "0x1f40"
-    },
-    {
         "description": "a_firethrower",
         "address": "0x74ec20",
         "size": 4,
@@ -7171,7 +7621,7 @@
     },
     {
         "description": "firethrower cost",
-        "address": "0x12F0AD",
+        "address": "0x12F0aD",
         "size": 1,
         "value": "0x18"
     },
@@ -7180,12 +7630,6 @@
         "address": "0x6B92E4",
         "size": 4,
         "value": "0x64"
-    },
-    {
-        "description": "arrow_dmga_firethrower",
-        "address": "0x74ed60",
-        "size": 4,
-        "value": "0x4e2"
     },
     {
         "description": "melee_a_firethrower_vs_a_firethrower",
@@ -7654,6 +8098,12 @@
         "address": "0x167F7C",
         "size": 4,
         "value": "0x4"
+    },
+    {
+        "description": "monk_meleedmg_building",
+        "address": "0x167FB9",
+        "size": 1,
+        "value": "0x14"
     },
     {
         "description": "speed_e_monk",
@@ -8136,12 +8586,6 @@
         "value": "0x1388"
     },
     {
-        "description": "e_ladder",
-        "address": "0x74eb64",
-        "size": 4,
-        "value": "0x1388"
-    },
-    {
         "description": "tunneler",
         "address": "0x74eb04",
         "size": 4,
@@ -8152,6 +8596,12 @@
         "address": "0x14F6FF",
         "size": 4,
         "value": "0x6"
+    },
+    {
+        "description": "speed_tunneler",
+        "address": "0x74e744",
+        "size": 4,
+        "value": "0x1"
     },
     {
         "description": "melee_tunneler_vs_a_firethrower",
@@ -8626,6 +9076,12 @@
         "address": "0x6B92D0",
         "size": 4,
         "value": "0x5"
+    },
+    {
+        "description": "speed_a_slave",
+        "address": "0x74e84c",
+        "size": 4,
+        "value": "0x1"
     },
     {
         "description": "melee_a_slave_vs_a_sword",
