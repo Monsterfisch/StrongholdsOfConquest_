@@ -6,31 +6,6 @@
 
 
 
-         {"description":"offset_tower1_x","address":"e565f","size":1,"value":202},
-         {"description":"offset_tower1_y","address":"e5658","size":4,"value":4294967099},
-         {"description":"offset_tower2_x","address":"e5741","size":1,"value":135},
-         {"description":"offset_tower2_y","address":"e573a","size":4,"value":4294966907},
-         {"description":"offset_tower3_x","address":"e57f6","size":1,"value":151},
-         {"description":"offset_tower3_y","address":"e57ef","size":4,"value":4294967019},
-         {"description":"offset_tower4_x","address":"e56d0","size":1,"value":193},
-         {"description":"offset_tower4_y","address":"e56c9","size":4,"value":4294966991},
-         {"description":"offset_keep_x","address":"e536a","size":1,"value":144},
-         {"description":"offset_keep_y","address":"e5363","size":4,"value":4294966995},
-         {"description":"offset_closed_tower4_x","address":"e57a7","size":1,"value":134},
-         {"description":"offset_closed_tower4_y","address":"e57a0","size":4,"value":4294966907},
-         {"description":"offset_closed_tower0_x","address":"e5636","size":1,"value":214},
-         {"description":"offset_closed_tower0_y","address":"e562f","size":4,"value":4294966828},
-         {"description":"offset_tower0_x","address":"e5610","size":1,"value":224},
-         {"description":"offset_tower0_y","address":"e5609","size":4,"value":4294966948},
-         {"description":"offset_biggate_door_Left_x","address":"e53b7","size":1,"value":164},
-         {"description":"offset_biggate_door_Left_y","address":"e53b0","size":4,"value":4294967053},
-         {"description":"offset_biggate_door_right_x","address":"e53d9","size":1,"value":164},
-         {"description":"offset_biggate_door_right_y","address":"e53d2","size":4,"value":4294967053},
-
-
-
-
-
 
 
          {"description":"minimap unit size","address":"0xB6FC0","size":1,"value":1},
@@ -54,10 +29,10 @@
          {"description":"Archer, crossbowman and fireballista control range 5.","address":"0x36ABA","size":4,"value":1600},
          {"description":"Archer projectile velocity.","address":"0x1B64FC","size":4,"value":125},
          {"description":"Archer projectile arch type.","address":"0x1B642C","size":4,"value":0},
-         {"description":"Crossbowman projectile velocity.","address":"0x1B6514","size":4,"value":10},
-         {"description":"Crossbowman projectile arch type.","address":"0x1B6444","size":4,"value":2},
-         {"description":"Fireballista projectile velocity.","address":"0x1B658C","size":4,"value":125},
-         {"description":"Fireballista projectile arch type.","address":"0x1B64BC","size":4,"value":2},
+         {"description":"Crossbowman projectile velocity.","address":"0x1B6514","size":4,"value":125},
+         {"description":"Crossbowman projectile arch type.","address":"0x1B6444","size":4,"value":0},
+         {"description":"Fireballista projectile velocity.","address":"0x1B658C","size":4,"value":80},
+         {"description":"Fireballista projectile arch type.","address":"0x1B64BC","size":4,"value":1},
 
          {"description":"Slinger base range.","address":"0x1B63DC","size":4,"value":22},
          {"description":"Slinger control range 1.","address":"0x35968","size":4,"value":484},
@@ -85,8 +60,8 @@
          {"description":"Catapult control range 5.","address":"0x368AA","size":4,"value":2916},
          {"description":"Catapult control range 6.","address":"0x369C8","size":4,"value":2916},
          {"description":"Catapult control range 7.","address":"0x36ACF","size":4,"value":2916},
-         {"description":"Catapult projectile velocity.","address":"0x1B6500","size":4,"value":10},
-         {"description":"Catapult projectile arch type.","address":"0x1B6430","size":4,"value":1.6},
+         {"description":"Catapult projectile velocity.","address":"0x1B6500","size":4,"value":8},
+         {"description":"Catapult projectile arch type.","address":"0x1B6430","size":4,"value":1.8},
 
          {"description":"Trebuchet base range.","address":"0x1B6364","size":4,"value":68},
          {"description":"Tower ballista base range.","address":"0x1B63A8","size":4,"value":68},
@@ -100,8 +75,8 @@
          {"description":"Trebuchet and tower ballista control range 7.","address":"0x36AD6","size":4,"value":4624},
          {"description":"Trebuchet projectile velocity.","address":"0x1B6504","size":4,"value":30},
          {"description":"Trebuchet projectile arch type.","address":"0x1B6434","size":4,"value":1},
-         {"description":"Tower ballista projectile velocity.","address":"0x1B6548","size":4,"value":100},
-         {"description":"Tower ballista projectile arch type.","address":"0x1B6478","size":4,"value":2},
+         {"description":"Tower ballista projectile velocity.","address":"0x1B6548","size":4,"value":148},
+         {"description":"Tower ballista projectile arch type.","address":"0x1B6478","size":4,"value":0},
 
          {"description":"Mangonel base range.","address":"0x1B6368","size":4,"value":54},
          {"description":"Mangonel control range 1.","address":"0x3598D","size":4,"value":2916},
@@ -249,7 +224,14 @@
          {"description": "Fear Factor Productivity (+5 FF)-(+4 FF)", "address": "0x59179", "size":1, "value": 5},
          {"description": "Fear Factor Productivity (+5 FF)",         "address": "0x5917C", "size":1, "value": 47},
 
-         {"description": "Fear Factor - Troop Combat Bonus - unsigned divide by 2^n following magic number multipliciation", "address": "0x131639", "size":1, "value": 30},
+         
+          {"description": "Fear Factor - Troop Combat Bonus - base amount to add on FF", "address": "0x131622", "size":1, "value": 18},
+          {"description": "Fear Factor - Troop Combat Bonus multiplier - (dmg*2)=0, (dmg*3)=64, (dmg*5)=128, (dmg*9)=192", "address": "0x13162a", "size":1, "value": 128},
+          {"description": "Fear Factor - Troop Combat Bonus - Magic Number for dividing by 100", "address": "0x13162c", "size":4, "value": 1374389535},
+          {"description": "Fear Factor - Troop Combat Bonus - signed divide by 2^n following magic number multiplication", "address": "0x131634", "size":1, "value": 5},
+          {"description": "Fear Factor - Troop Combat Bonus - unsigned divide by 2^n following magic number multipliciation", "address": "0x131639", "size":1, "value": 31},
+
+
 
          {"description":"Tax Visual lv 0 - Keep Menu",                        "address": "0x3B0AE", "size":4, "value": 250},
          {"description":"Tax Visual lv 1 - Keep Menu",                        "address": "0x3B0BD", "size":4, "value": 125},
@@ -311,7 +293,8 @@
 
          {"description":"buy_flour","address":"0x217390","size":4,"value":150},
          {"description":"sell_flour","address":"0x2173f8","size":4,"value":100},
-         {"description":"sell_wheat","address":"0x2173dc","size":4,"value":55},
+         {"description":"sell_wheat","address":"0x2173dc","size":4,"value":60},
+         {"description":"buy_wheat","address":"0x217374","size":4,"value":105},
          {"description":"sell_hop","address":"0x2173c4","size":4,"value":75},
          {"description":"buy_hop","address":"0x21735c","size":4,"value":150},
          {"description":"sell_beer","address":"0x2173f0","size":4,"value":165},
@@ -398,6 +381,8 @@
          {"description": "Cheese Delivery Base", "address": "0x154D44", "size":1, "value": 4},
          {"description": "Apple Delivery Base",  "address": "0x154591", "size":1, "value": 4},
          {"description": "Meat Delivery Base",   "address": "0x1506A8", "size":1, "value": 8},
+         {"description": "Wheat Delivery Base",  "address": "0x152F6E", "size":1, "value": 3},
+
 
           {"description": "Apothecary pop", "address": "0x1BA494", "size":4, "value":1 },
           {"description": "Fletcher pop",   "address": "0x1BA468", "size":4, "value":1 },
@@ -439,13 +424,13 @@
          {"description":"arrow_dmga_harcher","address":"0x74ed58","size":4,"value":5000},
          {"description":"arrow_dmga_firethrower","address":"0x74ed60","size":4,"value":500},
 
-         {"description":"arrow_dmge_sword","address":"0x74ec9c","size":4,"value":250},
+         {"description":"arrow_dmge_sword","address":"0x74ec9c","size":4,"value":280},
          {"description":"arrow_dmge_mace","address":"0x74ec98","size":4,"value":1300},
          {"description":"arrow_dmge_knight","address":"0x74eca0","size":4,"value":600},
          {"description":"arrow_dmge_pike","address":"0x74ec94","size":4,"value":1400},
          {"description":"arrow_dmga_slave","address":"0x74ed4c","size":4,"value":5000},
          {"description":"arrow_dmga_assassin","address":"0x74ed54","size":4,"value":1650},
-         {"description":"arrow_dmga_sword","address":"0x74ed5c","size":4,"value":750},
+         {"description":"arrow_dmga_sword","address":"0x74ed5c","size":4,"value":800},
          {"description":"arrow_dmge_spear","address":"0x74ec90","size":4,"value":2900},
 
          {"description":"arrow_dmgs_tower","address":"0x74ed18","size":4,"value":2500},
@@ -466,7 +451,7 @@
          {"description":"xbow_dmge_pike","address":"0x74ef14","size":4,"value":5300},
          {"description":"xbow_dmge_mace","address":"0x74ef18","size":4,"value":4000},
          {"description":"xbow_dmge_sword","address":"0x74ef1c","size":4,"value":830},
-         {"description":"xbow_dmge_knight","address":"0x74ef20","size":4,"value":520},
+         {"description":"xbow_dmge_knight","address":"0x74ef20","size":4,"value":490},
          {"description":"xbow_dmga_assassin","address":"0x74efd4","size":4,"value":4500},
          {"description":"xbow_dmga_sword","address":"0x74efdc","size":4,"value":3200},
          {"description":"xbow_dmge_monk","address":"0x74ef44","size":4,"value":15000},
@@ -495,7 +480,7 @@
 
 
          {"description":"large_gatehouse","address":"0x1ba2cc","size":4,"value":3000},
-         {"description":"marketplace","address":"0x1ba280","size":4,"value":60},
+         {"description":"marketplace","address":"0x1ba280","size":4,"value":50},
          {"description":"tower_one","address":"0x1ba340","size":4,"value":800},
          {"description":"tower_two","address":"0x1ba344","size":4,"value":1200},
          {"description":"tower_three","address":"0x1ba348","size":4,"value":1400},
@@ -516,13 +501,14 @@
          {"description":"house","address":"0x1ba220","size":4,"value":300},
          {"description":"granary","address":"0x1ba264","size":4,"value":600},
          {"description":"oxtether","address":"0x1ba228","size":4,"value":25},
+         {"description":"pitchrig","address":"0x1ba230","size":4,"value":75},
 
 
-
+         {"description":"cost_oxtether","address":"0x1c2220","size":4,"value":[3,0,0,0,5]},
          {"description":"cost_tower_one","address":"0x1c2798","size":4,"value":[0,20,0,0,0]},
          {"description":"cost_tower_five","address":"0x1c27e8","size":4,"value":[0,45,0,0,0]},
-         {"description":"cost_pitchrig","address":"0x1c2248","size":4,"value":[5,0,0,0,0]},
-         {"description":"cost_woodcuttershut","address":"0x1c220c","size":4,"value":[3,0,0,0,10]},
+         {"description":"cost_pitchrig","address":"0x1c2248","size":4,"value":[8,0,0,0,0]},
+         {"description":"cost_woodcuttershut","address":"0x1c220c","size":4,"value":[4,0,0,0,10]},
          {"description":"cost_quarry","address":"0x1c2360","size":4,"value":[18,0,0,0,8]},
          {"description":"cost_engineerguild","address":"0x1c23b0","size":4,"value":[5,10,0,0,100]},
          {"description":"cost_armory","address":"0x1c22ac","size":4,"value":[2,6,0,0,0]},
@@ -607,9 +593,9 @@
 
          {"description":"cost_s_batteringram","address":"0x1c284c","size":4,"value":[16,0,0,0,120]},
          {"description":"Battering Ram Health","address":"0x74EBDC","size":4,"value":110000},
-         {"description":"stone_dmgs_batteringram","address":"0x74ee5c","size":4,"value":1500},
-         {"description":"xbow_dmgs_batteringram","address":"0x74ef9c","size":4,"value":1000},
-         {"description":"arrow_dmgs_batteringram","address":"0x74ed1c","size":4,"value":300},
+         {"description":"stone_dmgs_batteringram","address":"0x74ee5c","size":4,"value":360},
+         {"description":"xbow_dmgs_batteringram","address":"0x74ef9c","size":4,"value":1200},
+         {"description":"arrow_dmgs_batteringram","address":"0x74ed1c","size":4,"value":270},
          {"description":"speed_s_batteringram","address":"0x74e81c","size":4,"value":3},
 
 
@@ -1664,8 +1650,8 @@
          {"description":"melee_a_assassin_vs_e_mace","address":"0x754b98","size":4,"value":160},
          {"description":"melee_a_assassin_vs_e_sword","address":"0x754b9c","size":4,"value":60},
          {"description":"melee_a_assassin_vs_e_knight","address":"0x754ba0","size":4,"value":45},
-         {"description":"melee_a_assassin_vs_e_ladder","address":"0x754ba4","size":4,"value":80},
-         {"description":"melee_a_assassin_vs_e_engineer","address":"0x754ba8","size":4,"value":80},
+         {"description":"melee_a_assassin_vs_e_ladder","address":"0x754ba4","size":4,"value":130},
+         {"description":"melee_a_assassin_vs_e_engineer","address":"0x754ba8","size":4,"value":120},
          {"description":"melee_a_assassin_vs_e_monk","address":"0x754bc4","size":4,"value":180},
          {"description":"melee_a_assassin_vs_a_archer","address":"0x754c48","size":4,"value":120},
          {"description":"melee_a_assassin_vs_a_slave","address":"0x754c4c","size":4,"value":250},
@@ -2075,7 +2061,7 @@
          {"description":"melee_a_slave_vs_burningman","address":"0x7548b8","size":4,"value":30},
          {"description":"melee_a_slave_vs_fletcher","address":"0x7548c0","size":4,"value":30},
          {"description":"melee_a_slave_vs_quarry_grunt","address":"0x7548d0","size":4,"value":30},
-         {"description":"melee_a_slave_vs_quarry_ox","address":"0x7548d4","size":4,"value":30},
+         {"description":"melee_a_slave_vs_quarry_ox","address":"0x7548d4","size":4,"value":90},
          {"description":"melee_a_slave_vs_pitchman","address":"0x7548d8","size":4,"value":30},
          {"description":"melee_a_slave_vs_farmer_wheat","address":"0x7548dc","size":4,"value":30},
          {"description":"melee_a_slave_vs_farmer_hops","address":"0x7548e0","size":4,"value":30},
