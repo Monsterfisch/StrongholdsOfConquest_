@@ -43,3 +43,4 @@ A big shoutout and thank you to
 
 If you have Questions suggestions etc feel free to leave a supportticket or contact me via discord under Monsterfish_#7254
 
+ALL RIGHTS RESERVED 
